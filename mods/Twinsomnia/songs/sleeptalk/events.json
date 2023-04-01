@@ -1,0 +1,224 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "bedroom-sleeptalk",
+		"player1": "shitstain sleeptalk",
+		"player2": "gird",
+		"player3": null,
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				17666.6666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				19000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						"1"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				21666.6666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				22000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				68666.6666666666,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"45"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83000,
+				[
+					[
+						"Pulse",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"1",
+						"lil goyle"
+					],
+					[
+						"Play Animation",
+						"light",
+						"2"
+					],
+					[
+						"Stage Switch",
+						"bedroom",
+						""
+					],
+					[
+						"Change Character",
+						"BF",
+						"shitstain sleeptalk surprise"
+					]
+				]
+			],
+			[
+				84013.8888888889,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"2"
+					]
+				]
+			],
+			[
+				89000,
+				[
+					[
+						"Change Character",
+						"BF",
+						"shitstain sleeptalk2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "lil boyle metronomo",
+		"bpm": 90,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "sleeptalk"
+	}
+}
