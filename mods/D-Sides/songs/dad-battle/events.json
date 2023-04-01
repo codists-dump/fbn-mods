@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "W1_stageDARK",
+		"player1": "bfdark",
+		"player2": "dadDARK",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfdark",
+		"bpm": 164,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "dad-battle"
+	}
+}

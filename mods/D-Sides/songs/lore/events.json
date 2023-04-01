@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "mack",
+		"player1": "vedplayable",
+		"player2": "mack",
+		"player3": null,
+		"events": [
+			[
+				112975.609756097,
+				[
+					[
+						"Play Animation",
+						"ring",
+						"bf"
+					]
+				]
+			],
+			[
+				126439.024390244,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					],
+					[
+						"show gf",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129951.219512195,
+				[
+					[
+						"Break Window",
+						"",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.3, 0.05",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"policenew"
+					],
+					[
+						"Play Animation",
+						"break",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "police-anims",
+		"bpm": 205,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "lore"
+	}
+}
