@@ -1,4 +1,4 @@
 extends FNFScript
 
-func _ready():
-    print("cool script")
+func _note_created(_note):
+    _note.scroll_speed = 10
