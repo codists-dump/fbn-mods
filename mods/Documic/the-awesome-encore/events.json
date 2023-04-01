@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "shadowbg",
+		"player1": "bftgt",
+		"player2": "shadow",
+		"player3": null,
+		"events": [
+			[
+				144090.909090909,
+				[
+					[
+						"fuck you troll",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 198,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "the-awesome-encore"
+	}
+}
