@@ -1,0 +1,664 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "discord",
+		"player1": "dri",
+		"player2": "jman",
+		"player3": null,
+		"events": [
+			[
+				96048.3870967743,
+				[
+					[
+						"HUD Fade",
+						"0.6",
+						"0"
+					]
+				]
+			],
+			[
+				96774.1935483872,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"that's"
+					]
+				]
+			],
+			[
+				97096.7741935485,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"that's alright,"
+					]
+				]
+			],
+			[
+				98064.5161290324,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"you"
+					]
+				]
+			],
+			[
+				98306.4516129033,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"you homos,"
+					]
+				]
+			],
+			[
+				98951.6129032259,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"go"
+					]
+				]
+			],
+			[
+				99193.5483870969,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"go be"
+					]
+				]
+			],
+			[
+				99354.8387096775,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"go be sexual"
+					]
+				]
+			],
+			[
+				100080.64516129,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"go be sexual. I "
+					]
+				]
+			],
+			[
+				100322.580645161,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"go be sexual. I don't"
+					]
+				]
+			],
+			[
+				100483.870967742,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"go be sexual. I don't care!"
+					]
+				]
+			],
+			[
+				101370.967741936,
+				[
+					[
+						"Subtitle",
+						"kofv",
+						"oh"
+					]
+				]
+			],
+			[
+				101693.548387097,
+				[
+					[
+						"Subtitle",
+						"kofv",
+						"oh someones"
+					]
+				]
+			],
+			[
+				101935.483870968,
+				[
+					[
+						"Subtitle",
+						"kofv",
+						"oh someones in-"
+					]
+				]
+			],
+			[
+				102661.290322581,
+				[
+					[
+						"Subtitle",
+						"kofv",
+						""
+					],
+					[
+						"Subtitle",
+						"jman",
+						"take deez,"
+					]
+				]
+			],
+			[
+				103064.516129032,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take deez"
+					]
+				]
+			],
+			[
+				103467.741935484,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take deez as "
+					]
+				]
+			],
+			[
+				103629.032258065,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take deez as a"
+					]
+				]
+			],
+			[
+				103790.322580645,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take deez as a character"
+					]
+				]
+			],
+			[
+				104354.838709678,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take deez as a character of"
+					]
+				]
+			],
+			[
+				104516.129032258,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take deez as a character of your"
+					]
+				]
+			],
+			[
+				104677.419354839,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take deez as a character of your mod-"
+					]
+				]
+			],
+			[
+				105403.225806452,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I"
+					]
+				]
+			],
+			[
+				105645.161290323,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I just"
+					]
+				]
+			],
+			[
+				105806.451612903,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I just want-"
+					]
+				]
+			],
+			[
+				106048.387096774,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I "
+					]
+				]
+			],
+			[
+				106209.677419355,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I don't "
+					]
+				]
+			],
+			[
+				106370.967741936,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I don't care"
+					]
+				]
+			],
+			[
+				107096.774193549,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I "
+					]
+				]
+			],
+			[
+				107258.064516129,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I tried"
+					]
+				]
+			],
+			[
+				107500,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I tried making"
+					]
+				]
+			],
+			[
+				107741.935483871,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I tried making a"
+					]
+				]
+			],
+			[
+				107903.225806452,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I tried making a mod"
+					]
+				]
+			],
+			[
+				108225.806451613,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I tried making a mod with"
+					]
+				]
+			],
+			[
+				108387.096774194,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"I tried making a mod with y'all"
+					]
+				]
+			],
+			[
+				108870.967741936,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and "
+					]
+				]
+			],
+			[
+				109032.258064516,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and now"
+					]
+				]
+			],
+			[
+				109193.548387097,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and now obviously"
+					]
+				]
+			],
+			[
+				109758.064516129,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and now obviously don't"
+					]
+				]
+			],
+			[
+				110080.64516129,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and now obviously don't care"
+					]
+				]
+			],
+			[
+				110725.806451613,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"so"
+					]
+				]
+			],
+			[
+				110967.741935484,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"so just"
+					]
+				]
+			],
+			[
+				111209.677419355,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"so just leave"
+					]
+				]
+			],
+			[
+				111370.967741936,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"so just leave me "
+					]
+				]
+			],
+			[
+				111532.258064516,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"so just leave me alone"
+					]
+				]
+			],
+			[
+				112016.129032258,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and"
+					]
+				]
+			],
+			[
+				112258.064516129,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't involve"
+					]
+				]
+			],
+			[
+				113064.516129032,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't involve me"
+					]
+				]
+			],
+			[
+				113225.806451613,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't involve me in"
+					]
+				]
+			],
+			[
+				113387.096774194,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't involve me in vs"
+					]
+				]
+			],
+			[
+				113790.322580645,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't involve me in vs deez"
+					]
+				]
+			],
+			[
+				114354.838709678,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't involve me in vs deez ever"
+					]
+				]
+			],
+			[
+				114758.064516129,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"and don't involve me in vs deez ever again."
+					]
+				]
+			],
+			[
+				115241.935483871,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take "
+					]
+				]
+			],
+			[
+				115645.161290323,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take all"
+					]
+				]
+			],
+			[
+				115806.451612903,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take all my"
+					]
+				]
+			],
+			[
+				116129.032258065,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"take all my stuff-"
+					]
+				]
+			],
+			[
+				116532.258064516,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"just"
+					]
+				]
+			],
+			[
+				116693.548387097,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"just leave"
+					]
+				]
+			],
+			[
+				116935.483870968,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"just leave me"
+					]
+				]
+			],
+			[
+				117177.419354839,
+				[
+					[
+						"Subtitle",
+						"jman",
+						"just leave me alone-"
+					]
+				]
+			],
+			[
+				119274.193548387,
+				[
+					[
+						"Subtitle",
+						"jman",
+						""
+					]
+				]
+			],
+			[
+				119677.419354839,
+				[
+					[
+						"HUD Fade",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Minor-Inconvenience"
+	}
+}

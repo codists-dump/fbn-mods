@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "adobe",
+		"player1": "playabledocumic",
+		"player2": "soink",
+		"player3": null,
+		"events": [
+			[
+				155076.923076923,
+				[
+					[
+						"soink",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 260,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Format-Fight"
+	}
+}

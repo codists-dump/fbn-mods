@@ -1,0 +1,1661 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "home",
+		"player1": "bf-doki",
+		"player2": "natsuki",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"UI visibilty",
+						"false",
+						"",
+						null
+					],
+					[
+						"Character Visibility",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"0",
+						"0"
+					],
+					[
+						"Strumline Visibility",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strumline Visibility",
+						"bf",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"Tint Character",
+						"black",
+						"bf",
+						""
+					],
+					[
+						"Tint Character",
+						"black",
+						"dad",
+						""
+					],
+					[
+						"Tint Character",
+						"black",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				3600,
+				[
+					[
+						"remove darkScreen",
+						"5",
+						"",
+						null
+					]
+				]
+			],
+			[
+				9075,
+				[
+					[
+						"Strumline Visibility",
+						"dad",
+						"1",
+						"0.8"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Character Visibility",
+						"dad",
+						"1",
+						"0.7"
+					]
+				]
+			],
+			[
+				11400,
+				[
+					[
+						"Strumline Visibility",
+						"bf",
+						"1",
+						"0.8"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Character Visibility",
+						"bf",
+						"1",
+						"0.7"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Character Visibility",
+						"gf",
+						"1",
+						"0.7"
+					]
+				]
+			],
+			[
+				19275,
+				[
+					[
+						"Cat Doodles Stuff",
+						"1",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				28200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.6",
+						"5.5"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Change Camera Zoom",
+						"1.7",
+						"5"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Strumline Visibility",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"Strumline Visibility",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Cat Doodles Stuff",
+						"",
+						"",
+						"hueh"
+					],
+					[
+						"Change Stagnant Stage",
+						"poem",
+						"",
+						""
+					],
+					[
+						"Character Visibility",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"0",
+						"0"
+					],
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33900,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.2"
+					]
+				]
+			],
+			[
+				34350,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.3, 0.003",
+						""
+					]
+				]
+			],
+			[
+				35325,
+				[
+					[
+						"Red Static",
+						"0.5",
+						"1.8",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"natsuki-sad",
+						"I'm not sorry hueh"
+					]
+				]
+			],
+			[
+				36450,
+				[
+					[
+						"Glitch Effect",
+						"0.3",
+						"",
+						null
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					],
+					[
+						"Tint Character",
+						"white",
+						"bf",
+						""
+					],
+					[
+						"Tint Character",
+						"white",
+						"gf",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-markov",
+						""
+					],
+					[
+						"Change Stagnant Stage",
+						"evil",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"sadbf",
+						""
+					],
+					[
+						"Strumline Visibility",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"Strumline Visibility",
+						"bf",
+						"1",
+						"0"
+					],
+					[
+						"Tint Character",
+						"white",
+						"dad",
+						""
+					],
+					[
+						"UI visibilty",
+						"true",
+						"",
+						""
+					],
+					[
+						"Character Visibility",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"bf",
+						"1",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"1",
+						"0"
+					],
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					],
+					[
+						"Red Static",
+						"0",
+						".1",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.008",
+						"0.01"
+					]
+				]
+			],
+			[
+				39600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.008",
+						"0.01",
+						null
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.008",
+						"0.01",
+						null
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.008",
+						"0.01",
+						null
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.008",
+						"0.01",
+						null
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.008",
+						"0.01",
+						null
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.008",
+						"0.01",
+						null
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"10"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Play Animation",
+						"eyes",
+						"dad",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.012",
+						"0.01",
+						""
+					],
+					[
+						"Change Camera Zoom",
+						"1.35",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.012",
+						"0.01",
+						""
+					],
+					[
+						"Change Camera Zoom",
+						"1.5",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Camera Zoom",
+						"1.7",
+						"0.1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.03",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.3, 0.01",
+						"0.3, 0.006",
+						""
+					],
+					[
+						"Glitch Effect",
+						"0.1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"natsuki-home",
+						""
+					],
+					[
+						"Move Opponent Tween",
+						"570",
+						"100",
+						"0.1"
+					],
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					],
+					[
+						"Red Static",
+						"0.1",
+						"0",
+						""
+					],
+					[
+						"Add/Remove Vignette",
+						"0.3",
+						"0.1",
+						""
+					],
+					[
+						"Change Camera Zoom",
+						"1.5",
+						"0.2",
+						""
+					],
+					[
+						"Toggle Note Camera Movement",
+						"true",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68400,
+				[
+					[
+						"Toggle Note Camera Movement",
+						"false",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Change Camera Zoom",
+						"1.3",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				97125,
+				[
+					[
+						"Screen in Darkness",
+						"1",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					],
+					[
+						"Add/Remove Vignette",
+						"1",
+						"0.5",
+						""
+					],
+					[
+						"Move Opponent Tween",
+						"100",
+						"100",
+						"0"
+					],
+					[
+						"Change Camera Zoom",
+						"1.1",
+						"0",
+						""
+					],
+					[
+						"Red Static",
+						"0",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				97275,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"natsuki-sad",
+						""
+					]
+				]
+			],
+			[
+				97725,
+				[
+					[
+						"Screen in Darkness",
+						"0",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"670",
+						"270",
+						""
+					],
+					[
+						"Change Camera Zoom",
+						"1.3",
+						"0.5",
+						""
+					],
+					[
+						"Play Animation",
+						"end",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				114600,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114900,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115800,
+				[
+					[
+						"Glitch Effect",
+						"0.5",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116175,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"0.2"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					],
+					[
+						"Move Boyfriend Tween",
+						"575",
+						"100",
+						"0.1"
+					],
+					[
+						"Move Opponent Tween",
+						"325",
+						"100",
+						"0.1"
+					],
+					[
+						"Change Camera Zoom",
+						"1.6",
+						"0.1",
+						""
+					],
+					[
+						"Add/Remove Vignette",
+						"0.4",
+						"0.2",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-home",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"natsuki-home",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"670",
+						"500",
+						""
+					],
+					[
+						"Red Static",
+						"0.1",
+						"0",
+						""
+					],
+					[
+						"Toggle Note Camera Movement",
+						"true",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"home",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				117300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				117900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				119700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				120300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				120900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				122100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				122700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				123300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				125100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				125700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				129300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				129900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				131700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				132300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				132900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				133800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				134100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					],
+					[
+						"Red Static",
+						"1",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134550,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				134700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				134850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				135000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				135150,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				135300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				135375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				135450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135525,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Change Stagnant Stage",
+						"ruinedclub",
+						"",
+						""
+					],
+					[
+						"Move Boyfriend Tween",
+						"670",
+						"100",
+						"0"
+					],
+					[
+						"Move Opponent Tween",
+						"200",
+						"100",
+						"0"
+					],
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					],
+					[
+						"Red Static",
+						"0",
+						"0.1",
+						""
+					],
+					[
+						"Toggle Note Camera Movement",
+						"false",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135675,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Red Static",
+						"1",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				154800,
+				[
+					[
+						"Red Static",
+						"0",
+						"0",
+						""
+					],
+					[
+						"Change Stagnant Stage",
+						"notepad",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfpoem",
+						""
+					],
+					[
+						"Glitch Effect",
+						"0.2",
+						"",
+						""
+					],
+					[
+						"Character Visibility",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"0",
+						"0"
+					],
+					[
+						"Add/Remove Vignette",
+						"0.3",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Red Static",
+						"1",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				164400,
+				[
+					[
+						"Red Static",
+						"0",
+						"0.1",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-home",
+						""
+					],
+					[
+						"Character Visibility",
+						"dad",
+						"1",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"1",
+						"0"
+					],
+					[
+						"Change Stagnant Stage",
+						"ruinedclub",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Screen in Darkness",
+						"1",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.95",
+						"0.2"
+					],
+					[
+						"UI visibilty",
+						"false",
+						"",
+						""
+					],
+					[
+						"Strumline Visibility",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strumline Visibility",
+						"bf",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				176400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sil_bf",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sil_natsuki",
+						""
+					],
+					[
+						"Change Stagnant Stage",
+						"void",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"sil_gf",
+						""
+					],
+					[
+						"Change Camera Zoom",
+						"0.8",
+						"",
+						""
+					]
+				]
+			],
+			[
+				176475,
+				[
+					[
+						"Character Visibility",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"0",
+						"0"
+					],
+					[
+						"Tint Character",
+						"gray",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				176550,
+				[
+					[
+						"Screen in Darkness",
+						"0",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				177750,
+				[
+					[
+						"Character Visibility",
+						"bf",
+						"1",
+						"0.7"
+					],
+					[
+						"Strumline Visibility",
+						"bf",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				178950,
+				[
+					[
+						"Character Visibility",
+						"gf",
+						"1",
+						"0.7"
+					]
+				]
+			],
+			[
+				180750,
+				[
+					[
+						"Summon Sayori or Yuri",
+						"sayori",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				195150,
+				[
+					[
+						"Summon Sayori or Yuri",
+						"yuri",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				214350,
+				[
+					[
+						"Change Scroll Speed",
+						"0.85",
+						"0.2"
+					]
+				]
+			],
+			[
+				217200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.007",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				217650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.007",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				217950,
+				[
+					[
+						"Add Camera Zoom",
+						"0.007",
+						"0.01",
+						""
+					]
+				]
+			],
+			[
+				218400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				219300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				219600,
+				[
+					[
+						"Show death screen",
+						"1",
+						"0.1",
+						""
+					],
+					[
+						"Strumline Visibility",
+						"bf",
+						"0",
+						"0"
+					],
+					[
+						"Red Static",
+						"1",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				224400,
+				[
+					[
+						"remove darkScreen",
+						"3",
+						"1",
+						"We can now bring it back. Hidden feature hueh"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "HOME"
+	}
+}

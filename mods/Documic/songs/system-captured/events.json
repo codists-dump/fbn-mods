@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "mainbg",
+		"player1": "bf",
+		"player2": "documic2",
+		"player3": null,
+		"events": [
+			[
+				971.223021582734,
+				[
+					[
+						"win98 visibility",
+						"1.1",
+						"piss"
+					]
+				]
+			],
+			[
+				6906.47482014389,
+				[
+					[
+						"White Flash",
+						"0.5",
+						""
+					],
+					[
+						"win98 visibility",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 139,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "System-Captured"
+	}
+}

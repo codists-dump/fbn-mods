@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "a",
+		"player1": "bf",
+		"player2": "documic",
+		"player3": null,
+		"events": [
+			[
+				19285.7142857143,
+				[
+					[
+						"Open Txt",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36696.4285714286,
+				[
+					[
+						"Open Txt",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54843.75,
+				[
+					[
+						"Open Txt",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95624.9999999999,
+				[
+					[
+						"Open Txt",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95892.857142857,
+				[
+					[
+						"Open Txt",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96026.7857142856,
+				[
+					[
+						"Open Txt",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96093.7499999999,
+				[
+					[
+						"Open Txt",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 224,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "New-Document"
+	}
+}

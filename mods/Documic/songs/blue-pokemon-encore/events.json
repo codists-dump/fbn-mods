@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "bpbg",
+		"player1": "bftgt",
+		"player2": "tgfsonic",
+		"player3": null,
+		"events": [
+			[
+				68936.170212766,
+				[
+					[
+						"bg progression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127420.212765957,
+				[
+					[
+						"Change Scroll Speed",
+						"0.875",
+						"0.95"
+					]
+				]
+			],
+			[
+				129574.468085106,
+				[
+					[
+						"Change Scroll Speed",
+						"1.085",
+						"0.35"
+					],
+					[
+						"Play Animation",
+						"LEAN",
+						"dad"
+					],
+					[
+						"bg progression",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149840.425531915,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				172340.425531915,
+				[
+					[
+						"Black Back",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 188,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Blue-Pokemon-Encore"
+	}
+}

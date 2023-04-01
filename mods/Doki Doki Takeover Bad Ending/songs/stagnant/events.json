@@ -1,0 +1,988 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stagnant",
+		"player1": "bf-doki",
+		"player2": "sayori",
+		"player3": null,
+		"events": [
+			[
+				2666.66666666667,
+				[
+					[
+						"remove darkScreen",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Glitch Effect",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Glitch increase",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				21750,
+				[
+					[
+						"Glitch increase",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				22000,
+				[
+					[
+						"Glitch Effect",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				22003.4722222222,
+				[
+					[
+						"Glitch increase",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				23333.3333333333,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				23666.6666666667,
+				[
+					[
+						"Glitch Effect",
+						"0.3",
+						""
+					],
+					[
+						"Glitch increase",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				23916.6666666667,
+				[
+					[
+						"Glitch increase",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Stagnant Stage",
+						"evil",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sadsayo"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sadbf"
+					],
+					[
+						"Play Animation",
+						"necksnap",
+						"gf"
+					],
+					[
+						"Change Camera Zoom",
+						"1",
+						"0"
+					],
+					[
+						"Add/Remove Vignette",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				24045.8333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"0.66",
+						"0"
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Glitch Effect",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				42670.1388888889,
+				[
+					[
+						"Glitch increase",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				43166.6666666667,
+				[
+					[
+						"Glitch increase",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				44666.6666666667,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				44670.1388888889,
+				[
+					[
+						"Glitch increase",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				45250,
+				[
+					[
+						"Glitch increase",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				45333.3333333333,
+				[
+					[
+						"Change Stagnant Stage",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sayori"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-doki"
+					],
+					[
+						"Force Dance",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				45333.3333333333,
+				[
+					[
+						"Glitch increase",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Glitch Effect",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Glitch increase",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				64416.6666666667,
+				[
+					[
+						"Glitch increase",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64666.6666666667,
+				[
+					[
+						"Glitch Effect",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				64670.1388888889,
+				[
+					[
+						"Glitch increase",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				65333.3333333334,
+				[
+					[
+						"Glitch increase",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Glitch increase",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				66250,
+				[
+					[
+						"Glitch increase",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				66500,
+				[
+					[
+						"Change Scroll Speed",
+						"0.66",
+						"0"
+					]
+				]
+			],
+			[
+				66666.6666666667,
+				[
+					[
+						"Change Stagnant Stage",
+						"evil",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sadsayo"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sadbf"
+					],
+					[
+						"Play Animation",
+						"necksnap",
+						"gf"
+					],
+					[
+						"Change Camera Zoom",
+						"1",
+						""
+					],
+					[
+						"Add/Remove Vignette",
+						"0.3",
+						"0"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Change Stagnant Stage",
+						"evil",
+						"2"
+					],
+					[
+						"Change Camera Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Glitch Effect",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				88083.3333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"1.10",
+						"3"
+					]
+				]
+			],
+			[
+				108333.333333333,
+				[
+					[
+						"Poem Transition",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				109166.666666667,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				109333.333333333,
+				[
+					[
+						"Change Combo UI",
+						"poemUI/",
+						"-poem"
+					],
+					[
+						"Change Health Graphic",
+						"poemUI/,-poem",
+						"10,12.5"
+					],
+					[
+						"Change Time Graphic",
+						"poemUI/,-poem",
+						"10,12.5"
+					],
+					[
+						"Change Stagnant Stage",
+						"poem",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfpoem"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sayopoem"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"false"
+					],
+					[
+						"Change Strumline",
+						"poem",
+						"false"
+					],
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					],
+					[
+						"Poem Transition",
+						"false",
+						""
+					],
+					[
+						"Add/Remove Vignette",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				141333.333333333,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				146666.666666667,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				151833.333333333,
+				[
+					[
+						"Glitch increase",
+						"3",
+						""
+					],
+					[
+						"Glitch Effect",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Change Combo UI",
+						"",
+						""
+					],
+					[
+						"Change Health Graphic",
+						"",
+						""
+					],
+					[
+						"Change Time Graphic",
+						"",
+						""
+					],
+					[
+						"Change Stagnant Stage",
+						"evil",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"sadbf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sadsayo"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"true"
+					],
+					[
+						"Change Strumline",
+						"normal",
+						"false"
+					],
+					[
+						"Change Camera Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Add/Remove Vignette",
+						"0.7",
+						"0.4"
+					]
+				]
+			],
+			[
+				153333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				154666.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				156500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				158666.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				161333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				162333.333333333,
+				[
+					[
+						"Glitch Effect",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				162666.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				166000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.03"
+					]
+				]
+			],
+			[
+				166666.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				167166.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				169333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				172000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				173333.333333333,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						"0.8"
+					]
+				]
+			],
+			[
+				178666.666666667,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						"0.8"
+					]
+				]
+			],
+			[
+				178750,
+				[
+					[
+						"Add/Remove Vignette",
+						"0.75",
+						"0.4"
+					]
+				]
+			],
+			[
+				184000,
+				[
+					[
+						"Change Camera Zoom",
+						"1.4",
+						"0.8"
+					]
+				]
+			],
+			[
+				184000,
+				[
+					[
+						"Add/Remove Vignette",
+						"0.8",
+						"0.4"
+					]
+				]
+			],
+			[
+				189333.333333334,
+				[
+					[
+						"Change Camera Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Change Stagnant Stage",
+						"evil",
+						"2"
+					],
+					[
+						"Glitch Effect",
+						"0.3",
+						""
+					],
+					[
+						"Glitch increase",
+						"3",
+						""
+					],
+					[
+						"Add/Remove Vignette",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				193666.666666667,
+				[
+					[
+						"Poem Transition",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				194666.666666667,
+				[
+					[
+						"Change Combo UI",
+						"poemUI/",
+						"-poem"
+					],
+					[
+						"Change Health Graphic",
+						"poemUI/,-poem",
+						"10,12.5"
+					],
+					[
+						"Change Time Graphic",
+						"poemUI/,-poem",
+						"10,12.5"
+					],
+					[
+						"Change Stagnant Stage",
+						"poem",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfpoem"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sayopoem"
+					],
+					[
+						"Character Visibility",
+						"gf",
+						"false"
+					],
+					[
+						"Change Strumline",
+						"poem",
+						"false"
+					],
+					[
+						"Poem Transition",
+						"false",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.04"
+					],
+					[
+						"Add/Remove Vignette",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				194750,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				216000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.05"
+					],
+					[
+						"Change Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				219250,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						""
+					],
+					[
+						"Glitch increase",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				220000,
+				[
+					[
+						"Glitch Effect",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				220416.666666667,
+				[
+					[
+						"Poem Transition",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				220666.666666667,
+				[
+					[
+						"Glitch Effect",
+						"0.4",
+						""
+					],
+					[
+						"Glitch increase",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				221333.333333334,
+				[
+					[
+						"Glitch increase",
+						"2",
+						""
+					],
+					[
+						"Poem Transition",
+						"false",
+						"",
+						""
+					],
+					[
+						"Screen in Darkness",
+						"1",
+						"0",
+						""
+					],
+					[
+						"Strumline Visibility",
+						"dad",
+						"0",
+						"0"
+					],
+					[
+						"Strumline Visibility",
+						"bf",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "STAGNANT"
+	}
+}
