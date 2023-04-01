@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "how",
+			"text": "Is there SERIOSULY no beating this… how old is this guy anyway?",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "I’d say around 6,935 eggs.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "help",
+			"text": "What does that even mean???",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "busy",
+			"text": "Chicken egg laying years.\r\nGotta make sure we measure animal brutality.",
+			"boxState": "normal",
+			"portrait": "RexProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "honey",
+			"text": "Yeah like the length of my-",
+			"boxState": "normal",
+			"portrait": "bfprofiles",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "Oh my godd Boyfrienndddd…",
+			"boxState": "normal",
+			"portrait": "gfprofiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "point",
+			"text": "How do you even sing with blue hair constantly blocking your vision???",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "blue",
+			"text": "It’s not like I in any shape or form deal with having something blue constantly bothering me….",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		}, 
+		{
+			"expression": "oh",
+			"text": "Wait…",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.045,
+			"sound": ""
+		}
+	]
+}

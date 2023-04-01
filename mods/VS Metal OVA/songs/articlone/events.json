@@ -1,0 +1,254 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "ova",
+		"player1": "sonic",
+		"player2": "metal",
+		"player3": null,
+		"events": [
+			[
+				20845.5882352941,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				20955.8823529412,
+				[
+					[
+						"Camera Follow Pos",
+						"700",
+						"650"
+					]
+				]
+			],
+			[
+				24264.7058823529,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42352.9411764706,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"600",
+						"650"
+					]
+				]
+			],
+			[
+				49301.4705882353,
+				[
+					[
+						"Camera Follow Pos",
+						"1300",
+						"650"
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Camera Follow Pos",
+						"900",
+						"650"
+					],
+					[
+						"Set Cam Zoom",
+						"0.83",
+						""
+					]
+				]
+			],
+			[
+				69595.5882352942,
+				[
+					[
+						"Play Animation",
+						"future",
+						""
+					]
+				]
+			],
+			[
+				70477.9411764706,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"650"
+					]
+				]
+			],
+			[
+				70588.2352941177,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72352.9411764706,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				77536.7647058824,
+				[
+					[
+						"Camera Follow Pos",
+						"1300",
+						"650"
+					]
+				]
+			],
+			[
+				77647.0588235294,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				79411.7647058824,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				82941.1764705882,
+				[
+					[
+						"Play Animation",
+						"past",
+						""
+					]
+				]
+			],
+			[
+				84375,
+				[
+					[
+						"Camera Follow Pos",
+						"900",
+						"650"
+					]
+				]
+			],
+			[
+				84485.2941176471,
+				[
+					[
+						"Change Character",
+						"bf",
+						"stranger"
+					]
+				]
+			],
+			[
+				84595.5882352941,
+				[
+					[
+						"Play Animation",
+						"speaking",
+						"bf"
+					]
+				]
+			],
+			[
+				84705.8823529412,
+				[
+					[
+						"Change Character",
+						"dad",
+						"metal2"
+					]
+				]
+			],
+			[
+				91654.4117647059,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91764.7058823529,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sonic"
+					],
+					[
+						"Play Animation",
+						"dad",
+						"lol"
+					]
+				]
+			],
+			[
+				91875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"metal"
+					]
+				]
+			],
+			[
+				91985.294117647,
+				[
+					[
+						"Set Cam Zoom",
+						"0.83",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 136,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Articlone"
+	}
+}

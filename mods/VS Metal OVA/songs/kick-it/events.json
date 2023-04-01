@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "kick-it",
+		"player1": "rapper",
+		"player2": "metal-rapper",
+		"player3": null,
+		"events": [
+			[
+				45818.1818181818,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				54545.4545454546,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				56727.2727272728,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				63272.7272727273,
+				[
+					[
+						"Set Cam Zoom",
+						"900",
+						"650"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "eggman",
+		"bpm": 110,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Kick It"
+	}
+}

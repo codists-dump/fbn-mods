@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "up",
+			"text": "Where... Am I?",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "concern",
+			"text": "Oh hey, you’re somewhat conscious now.",
+			"boxState": "normal",
+			"portrait": "jerryProfiles",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "point2",
+			"text": "What the hell did you do!?",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "real",
+			"text": "Turns out shooting people in the head can kill them.",
+			"boxState": "normal",
+			"portrait": "jerryProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "help",
+			"text": "Wait.. WHAT? How am I still alive?",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "concern",
+			"text": "I just read a barrel blast manual and you just completely revitalized.",
+			"boxState": "normal",
+			"portrait": "jerryProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "Look, I’ve dealt with plenty of murder clients, \r\nI got over 50 on my SAT, you’re in good hands.",
+			"boxState": "normal",
+			"portrait": "jerryProfiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "help",
+			"text": "Just wake me up already!!",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		}, 
+		{
+			"expression": "please",
+			"text": "Where’s my please!?",
+			"boxState": "normal",
+			"portrait": "jerryProfiles",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "help",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.075,
+			"sound": ""
+		}
+	]
+}

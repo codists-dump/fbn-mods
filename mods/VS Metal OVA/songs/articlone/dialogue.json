@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sonico",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "So now we can get to the REAL fight, the last Sonic standing will be the winner!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "metalico",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": " 01100101 01110011 01110100 01100101 00100000 01101101 01110101 01101110 01100100 01101111 00100000 01101110 01101111 00100000 01100101 01110011 00100000 01110011 01110101 01100110 01101001 01100011 01101001 01100101 01101110 01110100 01100101 00100000 01110000 01100001 01110010 01100001 00100000 01101100 01101111 01110011 00100000 01100100 01101111 01110011 00101100 00100000 01110101 01101110 01101111 00100000 01110100 01101001 01100101 01101110 01100101 00100000 01110001 01110101 01100101 00100000 01101001 01110010 01110011 01100101"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sonico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But, this world isn't big enough for the both of us and one of us has to go?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "metalico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "01111001 01100101 01100001 01101000"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sonico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well i agree"
+		}
+	]
+}

@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "arrival",
+			"text": "I immediately came as soon as I heard about Scott doing something other than talk about video games.",
+			"boxState": "normal",
+			"portrait": "RexProfiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "help",
+			"text": "I NEED HELP!",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "point",
+			"text": "He needs help.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "busy",
+			"text": "Chillax, I’m already busy preventing sex here.",
+			"boxState": "normal",
+			"portrait": "RexProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "idea",
+			"text": "Any ideas target employee??",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "look",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "TargetProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "impatient",
+			"text": "This is taking too long, Scott really needs help here.",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.04,
+			"sound": ""
+		}, 
+		{
+			"expression": "gunfast",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "help",
+			"text": "Why are you guys so aggressive!? ",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "Gun",
+			"text": "Sex.",
+			"boxState": "normal",
+			"portrait": "RexProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "gun",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "wait",
+			"text": "Hold it for a second.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "think",
+			"text": "Now that I think about it… That’s not vegan.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "vegan",
+			"text": "Isn’t being a vegan related to preventing animal torture, not human??",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "Oh, nevermind then, shoot him.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.025,
+			"sound": ""
+		}, 
+		{
+			"expression": "gunstill",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.045,
+			"sound": ""
+		}, 
+		{
+			"expression": "augh",
+			"text": "AAUUGHHH, any other ideas on how to get me unfucked??",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.045,
+			"sound": ""
+		}, 
+		{
+			"expression": "point",
+			"text": "You’re a virgin, you can’t get unfucked.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.045,
+			"sound": ""
+		}, 
+		{
+			"expression": "busy",
+			"text": "As your moral support, I think you should try using the power of friendship.",
+			"boxState": "normal",
+			"portrait": "RexProfiles",
+			"speed": 0.045,
+			"sound": ""
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "wave",
+			"text": "Hi!",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "Vegan introductions.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "uhoh",
+			"text": "Oh THANK GOD!",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "fucked",
+			"text": "Okay, I might just be a little fucked",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "point",
+			"text": "This guy is just repeating everything I sing and getting away with it...",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "cringe",
+			"text": "and I reeeaally don’t think that’s how a rap battle works.",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "bep",
+			"boxState": "normal",
+			"portrait": "bfprofiles",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "point",
+			"text": "I don’t think he can speak.",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "gun",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "wait",
+			"text": "WAIT WAIT WAIT!! I need advice for singing against him!",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		}, 
+		{
+			"expression": "idle",
+			"text": "Have you tried chloroform or cyanide? 100% vegan, knocks them out.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "It’s a hobby too… and can be used for murder!",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "evicted",
+			"text": "Guys! I’ve already ignored three eviction notices, I can’t afford another one!",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.025,
+			"sound": ""
+		}
+	]
+}
