@@ -1,0 +1,295 @@
+{
+	"song": {
+		"events": [
+			[
+				1507.93650793651,
+				[
+					[
+						"Play Animation",
+						"fastanim",
+						"dad"
+					]
+				]
+			],
+			[
+				30476.1904761905,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					],
+					[
+						"Play Animation",
+						"Step it up",
+						"dad"
+					]
+				],
+				null,
+				""
+			],
+			[
+				31746.0317460317,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				40555.5555555556,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					],
+					[
+						"Play Animation",
+						"lmao",
+						"dad"
+					]
+				]
+			],
+			[
+				41904.7619047619,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				50714.2857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					],
+					[
+						"Play Animation",
+						"fatphobia",
+						"dad"
+					]
+				]
+			],
+			[
+				52063.4920634921,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				61507.9365079365,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					],
+					[
+						"Play Animation",
+						"Finished",
+						"dad"
+					]
+				],
+				null,
+				""
+			],
+			[
+				62222.2222222223,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				80000.0000000001,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-super"
+					]
+				]
+			],
+			[
+				82142.8571428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					],
+					[
+						"Play Animation",
+						"WHAT",
+						"dad"
+					]
+				]
+			],
+			[
+				82539.6825396826,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				91349.2063492064,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					],
+					[
+						"Play Animation",
+						"Grrr",
+						"dad"
+					]
+				]
+			],
+			[
+				92698.4126984128,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					],
+					[
+						"Play Animation",
+						"Ill show you",
+						"dad"
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				122380.952380953,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					],
+					[
+						"Play Animation",
+						"AAAA",
+						"dad"
+					]
+				]
+			],
+			[
+				123174.603174603,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				132619.047619048,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				142142.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					],
+					[
+						"Play Animation",
+						"Shut up",
+						"dad"
+					]
+				]
+			],
+			[
+				143492.063492064,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				153650.793650794,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				155555.555555556,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			]
+		]
+	}
+}
