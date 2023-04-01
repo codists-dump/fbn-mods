@@ -1,0 +1,234 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "mario",
+		"player1": "mario",
+		"player2": "luigi",
+		"player3": null,
+		"events": [
+			[
+				123821.656050956,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				130488.322717622,
+				[
+					[
+						"Set Current Singer",
+						"luigi",
+						""
+					]
+				]
+			],
+			[
+				135821.656050956,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				141154.989384289,
+				[
+					[
+						"Set Current Singer",
+						"mario",
+						""
+					]
+				]
+			],
+			[
+				146488.322717622,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				151821.656050956,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				151821.656050956,
+				[
+					[
+						"Set Current Singer",
+						"luigi",
+						""
+					]
+				]
+			],
+			[
+				157154.989384289,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				162488.322717622,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				162488.322717622,
+				[
+					[
+						"Set Current Singer",
+						"mario",
+						""
+					]
+				]
+			],
+			[
+				167821.656050956,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				173154.989384289,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				173154.989384289,
+				[
+					[
+						"Set Current Singer",
+						"luigi",
+						""
+					]
+				]
+			],
+			[
+				178488.322717623,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				179821.656050956,
+				[
+					[
+						"Set Current Singer",
+						"mario",
+						""
+					]
+				]
+			],
+			[
+				181154.989384289,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				182488.322717623,
+				[
+					[
+						"Set Current Singer",
+						"mario",
+						""
+					]
+				]
+			],
+			[
+				183821.656050956,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				186488.322717623,
+				[
+					[
+						"Set Current Singer",
+						"winnie",
+						""
+					]
+				]
+			],
+			[
+				186488.322717623,
+				[
+					[
+						"Set Current Singer",
+						"luigi",
+						""
+					]
+				]
+			],
+			[
+				189154.989384289,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "pixelUI/MARIONOTE_splashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 157,
+		"arrowSkin": "MARIONOTE_assets",
+		"needsVoices": true,
+		"song": "C++"
+	}
+}

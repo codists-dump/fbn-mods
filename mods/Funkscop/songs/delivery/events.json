@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": null,
+		"player1": "bill-pixel",
+		"player2": "stanley-pixel",
+		"player3": null,
+		"events": [
+			[
+				62625,
+				[
+					[
+						"Set Current Singer",
+						"picklechin",
+						""
+					]
+				]
+			],
+			[
+				101250,
+				[
+					[
+						"Set Current Singer",
+						"dickhead",
+						""
+					]
+				]
+			],
+			[
+				106050,
+				[
+					[
+						"Set Current Singer",
+						"picklechin",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Delivery"
+	}
+}

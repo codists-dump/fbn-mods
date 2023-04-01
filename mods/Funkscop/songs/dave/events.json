@@ -1,0 +1,424 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "city",
+		"player1": "cockboy",
+		"player2": "dickhead",
+		"player3": null,
+		"events": [
+			[
+				107865.168539326,
+				[
+					[
+						"Set Current Singer",
+						"picklechin",
+						""
+					]
+				]
+			],
+			[
+				129438.202247191,
+				[
+					[
+						"Set Current Singer",
+						"dickhead",
+						""
+					]
+				]
+			],
+			[
+				140224.719101124,
+				[
+					[
+						"Set Current Singer",
+						"picklechin",
+						""
+					]
+				]
+			],
+			[
+				142921.348314607,
+				[
+					[
+						"Set Current Singer",
+						"dickhead",
+						""
+					],
+					[
+						"Play Animation",
+						"singRIGHT",
+						"picklechar"
+					]
+				]
+			],
+			[
+				145786.516853933,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				145955.056179776,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				146123.595505618,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				146460.674157304,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				146629.213483146,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				146797.752808989,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				147134.831460674,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				147303.370786517,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				147471.91011236,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				147808.988764045,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				147977.528089888,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				148146.067415731,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				148483.146067416,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				148651.685393259,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				148820.224719101,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				149157.303370787,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				149325.842696629,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				149494.382022472,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				149831.460674158,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				150168.539325843,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				150505.617977528,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				150674.157303371,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				150842.696629214,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				151516.853932584,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			],
+			[
+				152022.471910113,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				152191.011235955,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				152865.168539326,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"picklechar"
+					]
+				]
+			],
+			[
+				153033.707865169,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				153202.247191011,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				153370.786516854,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"picklechar"
+					]
+				]
+			],
+			[
+				153539.325842697,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				156573.033707865,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"picklechar"
+					]
+				]
+			],
+			[
+				157247.191011236,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				157415.730337079,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"picklechar"
+					]
+				]
+			],
+			[
+				157921.348314607,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"picklechar"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 178,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dave"
+	}
+}
