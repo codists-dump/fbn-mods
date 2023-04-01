@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "SEOSFading",
+		"player1": "bf",
+		"player2": "garcelloghosty",
+		"player3": null,
+		"events": [
+			[
+				36000,
+				[
+					[
+						"Opponent Fade",
+						"2",
+						"0"
+					]
+				]
+			],
+			[
+				36750,
+				[
+					[
+						"Play Animation",
+						"bye",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Fading"
+	}
+}

@@ -1,0 +1,38 @@
+function onCreate()
+	addCharacterToList('bigrascal', 'dad');
+	precacheImage('blinds');
+end
+function onStepHit()
+	if curStep == 559 then
+		makeLuaSprite('image', 'blinds', -400, -50);
+		setScrollFactor('image', 1, 1);
+		addLuaSprite('image', true);
+
+		doTweenAlpha('stageGone', 'oldcity1', 0, 0.0001, 'linear');
+
+		doTweenAlpha('stageGone2', 'oldcity2', 0, 0.0001, 'linear');
+
+	end
+
+	if curStep == 625 then
+		doTweenAlpha('byebye', 'image', 0, 0.0001, 'linear');
+	end
+	
+	if curStep > 624 then
+		function opponentNoteHit()
+		health = getProperty('health')
+		if getProperty('health') > 0.05 then
+			setProperty('health', health- 0.0175);
+			end
+		end
+		function update (elapsed)
+		local currentBeat = (songPos / 1000)*(bpm/120)
+			for i=0,7 do
+			setActorY(defaultStrum0Y + 20 * math.cos((currentBeat + i*8.25) * math.pi), i)
+			end
+		end
+	end
+	if curStep == 1279 then
+		doTweenAlpha('helloagain', 'image', 1, 0.0001, 'linear');
+	end
+end

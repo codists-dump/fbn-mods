@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"sound": "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "chill",
+			"text": "What's up, little man?",
+			"boxState": "normal",
+			"sound": "garvo",
+			"portrait": "garcy",
+			"speed": 0.05
+		},
+		{
+			"expression": "chill",
+			"text": "Did the smoke catch your attention?",
+			"boxState": "normal",
+			"portrait": "garcy",
+			"speed": 0.05,
+			"sound": "garvo"
+		},
+		{
+			"expression": "talk",
+			"text": "bee bop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"sound": "bfvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "Yeah, it's pretty cool. You should try it out.",
+			"boxState": "normal",
+			"sound": "garvo",
+			"portrait": "garcy",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "beep bo",
+			"boxState": "normal",
+			"sound": "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "tell",
+			"text": "Are ya sure? Come on...",
+			"boxState": "normal",
+			"sound": "garvo",
+			"portrait": "garcy",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "beep bo",
+			"boxState": "normal",
+			"sound": "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "think",
+			"text": "Hm/...",
+			"boxState": "normal",
+			"sound": "garvo",
+			"portrait": "garcy",
+			"speed": 0.1
+		},
+		{
+			"expression": "tell",
+			"text": "Tell you what.",
+			"boxState": "normal",
+			"portrait": "garcy",
+			"sound": "garvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "chill",
+			"text": "If you beat me in a friendly little rap battle, I'll get off your case.",
+			"boxState": "normal",
+			"sound": "garvo",
+			"portrait": "garcy",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "Sound cool, little man?",
+			"boxState": "normal",
+			"sound": "garvo",
+			"portrait": "garcy",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "beep bo bop!",
+			"boxState": "normal",
+			"sound": "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "chill",
+			"text": "Heh, that got you hyped up. It's settled then.",
+			"boxState": "normal",
+			"sound": "garvo",
+			"portrait": "garcy",
+			"speed": 0.05
+		},
+		{
+			"expression": "tell",
+			"text": "As long as you don't mind me smoking a bit.",
+			"boxState": "normal",
+			"portrait": "garcy",
+			"sound": "garvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "Helps calm the nerves, y'know?",
+			"boxState": "normal",
+			"portrait": "garcy",
+			"sound": "garvo",
+			"speed": 0.05
+		}
+	]
+}

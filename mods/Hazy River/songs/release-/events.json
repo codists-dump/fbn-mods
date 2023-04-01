@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "SEOSMinusHaze",
+		"player1": "bfMinusCold",
+		"player2": "MinusGarTrans",
+		"player3": null,
+		"events": [
+			[
+				1250,
+				[
+					[
+						"Play Animation",
+						"Transform",
+						"dad"
+					]
+				]
+			],
+			[
+				2000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Play Animation",
+						"React",
+						"bf"
+					]
+				]
+			],
+			[
+				3625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"MinusGarDragon"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104750,
+				[
+					[
+						"Play Animation",
+						"tightbars",
+						"Dad"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"MinusGarDip"
+					]
+				]
+			],
+			[
+				140500,
+				[
+					[
+						"Play Animation",
+						"Dip",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfMinus",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Release-"
+	}
+}

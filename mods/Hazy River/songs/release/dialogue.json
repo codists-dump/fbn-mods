@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "ghost",
+			"text": "Oh.",
+			"boxState": "normal",
+			"sound": "garghostvo",
+			"portrait": "garcyrel",
+			"speed": 0.1
+		},
+		{
+			"expression": "silence",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "garcyrel",
+			"speed": 0.15
+		},
+		{
+			"expression": "think",
+			"text": "Would ya look at that.",
+			"boxState": "normal",
+			"sound": "garghostvo",
+			"portrait": "garcyrel",
+			"speed": 0.05
+		},
+		{
+			"expression": "ghost",
+			"text": "I guess I overdid it, huh?",
+			"boxState": "normal",
+			"portrait": "garcyrel",
+			"sound": "garghostvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "silence",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "garcyrel",
+			"speed": 0.15
+		},
+		{
+			"expression": "chill",
+			"text": "It's alright.",
+			"boxState": "normal",
+			"sound": "garghostvo",
+			"portrait": "garcyrel",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "I'd rather it be me than you.",
+			"boxState": "normal",
+			"portrait": "garcyrel",
+			"sound": "garghostvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "tell",
+			"text": "That hurt like hell, but it's probably better than what your girl's father was gonna do to me.",
+			"boxState": "normal",
+			"sound": "garghostvo",
+			"portrait": "garcyrel",
+			"speed": 0.045
+		},
+		{
+			"expression": "ghost",
+			"text": "I can't stay for too long, but...",
+			"boxState": "normal",
+			"sound": "garghostvo",
+			"portrait": "garcyrel",
+			"speed": 0.05
+		},
+		{
+			"expression": "tell",
+			"text": "Even if our time was short...",
+			"boxState": "normal",
+			"portrait": "garcyrel",
+			"sound": "garghostvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "Let's end things off with a bang, little man.",
+			"boxState": "normal",
+			"sound": "garghostvo",
+			"portrait": "garcyrel",
+			"speed": 0.045
+		}
+	]
+}

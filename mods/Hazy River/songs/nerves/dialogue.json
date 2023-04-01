@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"sound": "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "think",
+			"text": "Hhh...",
+			"boxState": "normal",
+			"sound": "garweakvo",
+			"portrait": "garcynerves",
+			"speed": 0.2
+		},
+		{
+			"expression": "tell",
+			"text": "Hey.",
+			"boxState": "normal",
+			"portrait": "garcynerves",
+			"sound": "garweakvo",
+			"speed": 0.1
+		},
+		{
+			"expression": "confused",
+			"text": "ski boop?",
+			"boxState": "normal",
+			"sound": "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "chill",
+			"text": "That was fun, but... my chest is starting to feel funny.",
+			"boxState": "normal",
+			"sound": "garweakvo",
+			"portrait": "garcynerves",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "beep...?",
+			"boxState": "normal",
+			"sound": "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "I-I'm not giving up just yet though. You've got some tight bars, little man.",
+			"boxState": "normal",
+			"sound": "garweakvo",
+			"portrait": "garcynerves",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bee bo ski bop!",
+			"boxState": "normal",
+			"sound":  "bfvo",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "tell",
+			"text": "Oh? You want me to keep going?",
+			"boxState": "normal",
+			"portrait": "garcynerves",
+			"sound": "garweakvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "F-Fine by me. I'm enjoying this actually.",
+			"boxState": "normal",
+			"portrait": "garcynerves",
+			"sound":  "garweakvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "chill",
+			"text": "One more couldn't hurt...",
+			"boxState": "normal",
+			"portrait": "garcynerves",
+			"sound": "garweakvo",
+			"speed": 0.05
+		},
+		{
+			"expression": "think",
+			"text": "...Right?",
+			"boxState": "normal",
+			"sound":  "garweakvo",
+			"portrait": "garcynerves",
+			"speed": 0.1
+		}
+	]
+}

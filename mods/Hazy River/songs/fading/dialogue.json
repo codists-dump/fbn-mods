@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "think",
+			"text": "Man...",
+			"boxState": "normal",
+			"portrait": "garcyfade",
+			"speed": 0.05,
+			"sound": "garfadevo"
+		},
+		{
+			"expression": "chill",
+			"text": "Would ya look at that - the sun's rising and I won't be awake for once.",
+			"boxState": "normal",
+			"portrait": "garcyfade",
+			"sound": "garfadevo",
+			"speed": 0.05
+		},
+		{
+			"expression": "silence",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "garcyfade",
+			"speed": 0.15,
+			"sound": ""
+		},
+		{
+			"expression": "tell",
+			"text": "Hey.",
+			"boxState": "normal",
+			"portrait": "garcyfade",
+			"speed": 0.1,
+			"sound": "garfadevo"
+		},
+		{
+			"expression": "know",
+			"text": "Sorry for dying.",
+			"boxState": "normal",
+			"sound": "garfadevo",
+			"portrait": "garcyfade",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "I didn't want this thing killin' ya.\\nYou're actually really cool.",
+			"boxState": "normal",
+			"portrait": "garcyfade",
+			"sound": "garfadevo",
+			"speed": 0.05
+		},
+		{
+			"expression": "dippy",
+			"text": "I would've loved to funk with ya more, but this is my fault.",
+			"boxState": "normal",
+			"portrait": "garcyfade",
+			"sound": "garfadevo",
+			"speed": 0.05
+		},
+		{
+			"expression": "tell",
+			"text": "You two have a lot going on, and I don't want to add to it.",
+			"boxState": "normal",
+			"portrait": "garcyfade",
+			"sound": "garfadevo",
+			"speed": 0.05
+		},
+		{
+			"expression": "silence",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "garcyfade",
+			"speed": 0.15
+		},
+		{
+			"expression": "chill",
+			"text": "I've got enough time for one last send off, little man.",
+			"boxState": "normal",
+			"sound": "garfadevo",
+			"portrait": "garcyfade",
+			"speed": 0.05
+		},
+		{
+			"expression": "know",
+			"text": "You two stay safe, alright?",
+			"boxState": "normal",
+			"sound": "garfadevo",
+			"portrait": "garcyfade",
+			"speed": 0.05
+		}
+	]
+}
