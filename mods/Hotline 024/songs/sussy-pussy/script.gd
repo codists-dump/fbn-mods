@@ -1,7 +1,7 @@
 extends FNFScript
 
 func _process(_delta):
-    if hud != null:
+    if play_state.player_strum is Node:
         for _button in play_state.player_strum.get_children():
             var _notes_node = _button.get_node("Notes")
 
