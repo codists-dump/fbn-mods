@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "starwalker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you wish to defeat            Me"
+		},
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "starwalker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You must train for another         1000 years"
+		}
+	]
+}

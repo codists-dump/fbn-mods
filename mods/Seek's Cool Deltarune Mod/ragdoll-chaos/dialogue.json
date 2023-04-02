@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "left",
+			"text": "Jevil, this HAS to stop!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "up",
+			"text": "Can't you see you're hurting actual people? And for what? Just because you can?",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "smile",
+			"text": "A shame, a shame. But I cannot be the one to blame, blame!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "smug",
+			"text": "All I did was play a game, game! Not my fault they couldn't keep the pace, pace!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "talk",
+			"text": "Jevil, listen, I really wanna be on your side here, but... None of what you're saying makes any sense.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "down",
+			"text": "Oh Seam, it's not about sense, sense! The truth does not make any sense, so why should WE be the ones to shatter the lens, lens?",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "right",
+			"text": "The... truth? Is this about that person you've met? What did they tell you?",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "left",
+			"text": "Nu-hah! Now you're getting it!\\nThe burden of freedom is too much, though. I wouldn't wish for you to suffer, friend.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "down",
+			"text": "(sigh) I'm sorry, but... it might be too late for you. Don't make this any harder than it needs to be.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "smug",
+			"text": "A key, a key? Oh Seam, now I see, see.\\nYou don't have to lock everyone else, we can all enjoy freedom together!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "right",
+			"text": "Get in the cell, I don't wanna hurt you.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "right",
+			"text": "I'm afraid I will not.\\nNot without one last game, game!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "talk",
+			"text": "Bring it.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "up",
+			"text": "Uee hee hee hee! Finally, a willing playmate! Glad you're on board, after all, 'tis but a mischief, mischief...",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "down",
+			"text": "A chaos, chaos.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.11,
+			"portrait": "jev"
+		}
+	]
+}

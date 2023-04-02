@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "GF Dancing beat",
+			"text": "(It was as if your very SOUL was glowing...)"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.05,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "KRIS!!!!!!!!!! WHAT ARE YOU DOING!"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.045,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "You can't just seal a fountain like that, big stuff. Such lack of class!"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.045,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "Can't leave the show while it's still running, eh?"
+		},
+		{
+			"sound": "delta",
+			"speed": 0.14,
+			"portrait": "kris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.06,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "...egh-"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.05,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "up",
+			"text": "[Laugh Track]\\nOh, Kris, so humorous, you!"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.05,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "You haven't said a single word since I've met you, but lemme tell you, your silence speaks a thousand words!"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.05,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "down",
+			"text": "We WILL have one last showdown.\\nOur audience is ACHING for a gran' finale!"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.05,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "And what better way to deliver, than with a showstopping MUSICAL?"
+		},
+		{
+			"sound": "mike_talk",
+			"speed": 0.05,
+			"portrait": "mikehawk",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "H-H-H-H-HIT IT!!!!"
+		},
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Press SHIELD NOTES to avoid Mike's attacks."
+		}
+	]
+}

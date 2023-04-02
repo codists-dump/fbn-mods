@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "left",
+			"text": "Jevil, this HAS to stop!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "up",
+			"text": "Can't you see you're hurting actual people? And for what? Just because you can?",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "smile",
+			"text": "A shame, a shame. But I cannot be the one to blame, blame!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "smug",
+			"text": "All I did was play a game, game! Not my fault they couldn't keep the pace, pace!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "talk",
+			"text": "Jevil, what happened to you? You've lost your mind ever since you've met that strange pers--",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "down",
+			"text": "CAN IT, CAN IT!!! WHAT DO YOU KNOW ABOUT FREEDOM?!? NOTHING! NOTHING!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "down",
+			"text": "(sigh) This is about what I expected... Don't make this any harder than it needs to be.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "smug",
+			"text": "A key, a key? Oh Seam, you really don't realize what you're doing to them.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "right",
+			"text": "Get in the cell, I don't wanna hurt you.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "right",
+			"text": "NU-HAH! NAY, NAY I SAY!\\nNot without one last game, game!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's get this over with.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "seam"
+		},
+		{
+			"expression": "up",
+			"text": "Uee hee hee hee! Let the games begin!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "jev"
+		},
+		{
+			"expression": "down",
+			"text": "After all, 'tis but THE TRUE AND NEO CHAOS! NU-HAH HAH HAH!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.11,
+			"portrait": "jev"
+		},
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Jevil's nonsense will cause confusion, spinning your notes around and summoning distractions. Stay focused!"
+		}
+	]
+}

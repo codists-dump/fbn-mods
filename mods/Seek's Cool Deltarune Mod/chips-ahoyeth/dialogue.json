@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "left",
+			"text": "Chips ahoyeth Landlubbers!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.045,
+			"portrait": "rouxls"
+		},
+		{
+			"expression": "right",
+			"text": "Arrrrrrr-t thou ready-eth to visit-eth Davith Jones' Lockre?",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "rouxls"
+		},
+		{
+			"expression": "talk",
+			"text": "Could... Could you NOT speak with more than one accent?",
+			"boxState": "normal",
+			"sound": "ralsei_speak",
+			"speed": 0.035,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "down",
+			"text": "Yeahth, alright.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "rouxls"
+		},
+		{
+			"expression": "left",
+			"text": "BUT THAT'ST BESIDES-ETH THE POINTETH! Thoust worms shall become pan-eth-cake-eths once I obliterateth thou in battle!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "rouxls"
+		},
+		{
+			"expression": "talk",
+			"text": "I shalt becometh the ULTIMATE left-hand minion.",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "rouxls"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh no... What is your plan this time?",
+			"boxState": "normal",
+			"sound": "ralsei_speak",
+			"speed": 0.05,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "talk",
+			"text": "Geh hah hah hah hah! Glad thou asked-eth! I shall obliterate you with...",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "rouxls"
+		},
+		{
+			"expression": "down",
+			"text": "...a musical fighte! I hopeth thou haveth bars in thee!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "rouxls"
+		}
+	]
+}

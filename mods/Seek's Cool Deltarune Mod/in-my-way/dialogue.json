@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "So... you're the one who trapped us?"
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I thought we were a team."
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "B-But Susie, I..."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah, I get it. I get it, really."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Why would anyone wanna be friends with me anyway?"
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "N-No, that's not--"
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "angrier",
+			"text": "SHUT UP. Get out of my way."
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.06,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "down",
+			"text": "No."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Heh... Alright. Then you leave me no choice."
+		}
+	]
+}

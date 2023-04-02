@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "dark",
+			"text": "* (whooshing sounds intensify)",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "bef"
+		},
+		{
+			"expression": "idle",
+			"text": "...bap. beep bo pa skbdooby eeby deeby",
+			"boxState": "normal",
+			"sound": "bf_speak",
+			"speed": 0.05,
+			"portrait": "bef"
+		},
+		{
+			"expression": "idle",
+			"text": "What are you supposed to be..?",
+			"boxState": "normal",
+			"sound": "vin_speak",
+			"speed": 0.09,
+			"portrait": "vin"
+		},
+		{
+			"expression": "hey",
+			"text": "Be boop bap do bee eff skbdee",
+			"boxState": "normal",
+			"sound": "bf_speak",
+			"speed": 0.05,
+			"portrait": "bef"
+		},
+		{
+			"expression": "up",
+			"text": "How... unusual.",
+			"boxState": "normal",
+			"sound": "vin_speak",
+			"speed": 0.1,
+			"portrait": "vin"
+		},
+		{
+			"expression": "idle",
+			"text": "A being with a soul... in here...",
+			"boxState": "normal",
+			"sound": "vin_speak",
+			"speed": 0.08,
+			"portrait": "vin"
+		},
+		{
+			"expression": "right",
+			"text": "Be bap boo bapska",
+			"boxState": "normal",
+			"sound": "bf_speak",
+			"speed": 0.05,
+			"portrait": "bef"
+		},
+		{
+			"expression": "idle",
+			"text": "It's... unfair. I've been here for God knows how long... why do YOU get to join the others now..?",
+			"boxState": "normal",
+			"sound": "vin_speak",
+			"speed": 0.07,
+			"portrait": "vin"
+		},
+		{
+			"expression": "down",
+			"text": "It's. UNFAIR.",
+			"boxState": "normal",
+			"sound": "vin_speak",
+			"speed": 0.1,
+			"portrait": "vin"
+		},
+		{
+			"expression": "left",
+			"text": "skill issue",
+			"boxState": "normal",
+			"sound": "bf_speak",
+			"speed": 0.05,
+			"portrait": "bef"
+		},
+		{
+			"expression": "right",
+			"text": "Take me with you... I will NOT spend any more time stuck here.",
+			"boxState": "normal",
+			"sound": "vin_speak",
+			"speed": 0.08,
+			"portrait": "vin"
+		},
+		{
+			"expression": "down",
+			"text": "Even if it means ripping that stupid soul out of your corpse.",
+			"boxState": "normal",
+			"sound": "vin_speak",
+			"speed": 0.085,
+			"portrait": "vin"
+		},
+		{
+			"sound": "bf_speak",
+			"speed": 0.05,
+			"portrait": "bef",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "weird flex but okay. beep."
+		}
+	]
+}

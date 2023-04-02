@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "livingroomStage",
+		"player1": "bf",
+		"player2": "cereal-guy",
+		"player3": null,
+		"events": [
+			[
+				27352.9411764706,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				27573.5294117647,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				27794.1176470588,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				28014.7058823529,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				31323.5294117647,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				41911.7647058824,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				55698.5294117647,
+				[
+					[
+						"Play Animation",
+						"mmhmm",
+						"Dad"
+					]
+				]
+			],
+			[
+				65294.1176470589,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				67941.1764705883,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				97058.8235294117,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				97279.4117647058,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				97720.5882352941,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				97941.1764705882,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				98161.7647058823,
+				[
+					[
+						"Play Animation",
+						"mmhmm",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 136,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "milkyway"
+	}
+}

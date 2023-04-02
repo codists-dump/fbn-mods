@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "livingroomStage",
+		"player1": "bf",
+		"player2": "curious-crunch",
+		"player3": null,
+		"events": [
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				15500,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				23000,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				23500,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				31000,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				31500,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				56750,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				73000,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				119000,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				119250,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				119500,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			],
+			[
+				125000,
+				[
+					[
+						"Play Animation",
+						"chew",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "crunch"
+	}
+}

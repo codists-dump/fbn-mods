@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(You got the Deal Maker and a Shadow Crystal.)"
+		}
+	]
+}

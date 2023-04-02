@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "up",
+			"text": "Nu-hah! Oh, Seam, friend... That was fun, fun! You managed to keep up! Ueehee!",
+			"boxState": "normal",
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "no"
+		},
+		{
+			"sound": "delta",
+			"speed": 0.14,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "S... Seam?\\nYou're still there, right? "
+		},
+		{
+			"sound": "delta",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You can... let me back in now..."
+		},
+		{
+			"sound": "delta",
+			"speed": 0.08,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seam?"
+		},
+		{
+			"sound": "delta",
+			"speed": 0.12,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(But nobody came)"
+		}
+	]
+}

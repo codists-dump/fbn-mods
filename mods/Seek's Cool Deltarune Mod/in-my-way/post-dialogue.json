@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Susie..... you.... you missed..."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I really don't wanna kill you, man."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Just move. Please."
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But if I do, you guys will fight my dad... and... and you'll kill each other."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I... uhm... If that's the case,\\nwe won't kill him."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "We'll just.... have a chat and talk it out, y'know? I promise."
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "stand",
+			"text": "I... don't think my dad would like that..."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "smile talk",
+			"text": "Lancer, c'mon! We're a team, remember? Nothing can stop us, fighting or not!"
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I guess you're right, heh."
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Um... Susie, one more thing..."
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Yeah?"
+		},
+		{
+			"sound": "lancer_talk",
+			"speed": 0.05,
+			"portrait": "imwlancer",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Are we still friends?"
+		},
+		{
+			"sound": "susie_talk",
+			"speed": 0.05,
+			"portrait": "imwsusie",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Huh? Of course, dude, haha"
+		}
+	]
+}

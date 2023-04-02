@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "citypart2",
+		"player1": "Roach_Haze",
+		"player2": "depressololo",
+		"player3": null,
+		"events": [
+			[
+				33000,
+				[
+					[
+						"Change Character",
+						"1",
+						"troll-think"
+					]
+				]
+			],
+			[
+				130000,
+				[
+					[
+						"Change Character",
+						"1",
+						"Troll-hope"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Trolo-Phys"
+					]
+				]
+			],
+			[
+				152125,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ROOF_TOP_Roach"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Hope"
+	}
+}

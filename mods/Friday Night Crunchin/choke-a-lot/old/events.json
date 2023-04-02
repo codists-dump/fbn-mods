@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "livingroomStage",
+		"player1": "bf",
+		"player2": "cereal-die",
+		"player3": null,
+		"events": [
+			[
+				46420.1183431953,
+				[
+					[
+						"Add Camera Zoom",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				61935.3338968724,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				63649.6196111581,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				75890.1098901099,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"Dad"
+					],
+					[
+						"playsound",
+						"spit",
+						"0.4"
+					]
+				]
+			],
+			[
+				88493.6601859679,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"Dad"
+					],
+					[
+						"playsound",
+						"spit",
+						"0.4"
+					]
+				]
+			],
+			[
+				92842.7726120034,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"Dad"
+					],
+					[
+						"playsound",
+						"spit",
+						"0.4"
+					]
+				]
+			],
+			[
+				100919.695688927,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"Dad"
+					],
+					[
+						"playsound",
+						"spit",
+						"0.4"
+					]
+				]
+			],
+			[
+				114943.36432798,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cereal-death"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "invis_gf",
+		"bpm": 169,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Choke-A-Lot"
+	}
+}
