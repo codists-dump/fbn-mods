@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HEY, SHRIMP!! We need you at the station ASAP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfpixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...errmmm later..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOW! COME ONE I DON'T GOT ALL DAY. In fact i have about 3 hours. Get here now or i'll fucking squash your teeny ass to a blue stain on my wood floor and mop ya."
+		}
+	]
+}

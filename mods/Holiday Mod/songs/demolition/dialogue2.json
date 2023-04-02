@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Well, well, well if it isn't jolly-lover Pico.xml"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tom",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "Just try an stop me and i'll send you to hell!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You distract him BF with your singing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll aim with the MOUSE and shoot his thrusters with the LEFT MOUSE button"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		}
+	]
+}

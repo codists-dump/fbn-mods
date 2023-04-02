@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "MOM?? WHat are you doing here?????",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "And miss my all time favorite song??? of course im here, baby",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "What are you doing ontop of a coke truck anyway?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "We're looking for an arial terrorist.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "oh! That one over there?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mom"
+		}
+	]
+}

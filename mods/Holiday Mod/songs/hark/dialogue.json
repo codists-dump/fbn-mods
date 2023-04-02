@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "According to our team there is an arial terrorist about 3 minutes away from here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "From the little info we gathered, they apparently HATE christmas and destory anything that has a lick of Ol Saint Nick  "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So here's where you come in. We sing a jolly tune as loud as possible, and I mean FUCKING LOUD."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We lure him in, blow his shit, and save whatever's left of the holidays."
+		}
+	]
+}
