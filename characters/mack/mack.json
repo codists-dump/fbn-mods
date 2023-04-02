@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				277,
-				-213
+				180,
+				-130
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				74,
-				-100
+				60,
+				-55
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				132,
-				-346
+				80,
+				-230
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				60,
-				131
+				50,
+				80
 			],
 			"loop": false,
 			"fps": 24,
@@ -76,7 +76,7 @@
 	"image": "characters/mack",
 	"position": [
 		10,
-		50
+		-270
 	],
 	"healthicon": "mack",
 	"flip_x": false,
@@ -86,9 +86,9 @@
 		132
 	],
 	"camera_position": [
-		-140,
-		140
+		160,
+		60
 	],
 	"sing_duration": 4,
-	"scale": 1.6
+	"scale": 1
 }
