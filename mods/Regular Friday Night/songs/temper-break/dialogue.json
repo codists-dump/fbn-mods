@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "DUDE! what the hell is happening??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "eased",
+			"text": "Whoaa it looks like a uhh.. uhmm... manifestion of all of his held back anger!",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "shocked",
+			"text": "Ok but why would he do that??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "talk",
+			"text": "Because i told him to.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "popsport"
+		},
+		{
+			"expression": "shocked",
+			"text": "WHY?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "talk",
+			"text": "Because theres never a reason to yell!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "popsport"
+		},
+		{
+			"expression": "eased",
+			"text": "You can't do that man! you gotta let his temper break!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "talk",
+			"text": "but-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "popsport"
+		},
+		{
+			"expression": "mad",
+			"text": "POPS!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "talk",
+			"text": "uuuuh- benson.. i need you to yell at boyfriend.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "popsport"
+		},
+		{
+			"expression": "talk",
+			"text": "but if i yell.. you said you'd fire me...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "benangryport"
+		},
+		{
+			"expression": "talk",
+			"text": "Forget what i said!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "popsport"
+		},
+		{
+			"expression": "pissed",
+			"text": "If you dont yell at Boyfriend right now...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "popsport"
+		},
+		{
+			"expression": "pissed",
+			"text": "you're FIRED..!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "popsport"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "benangryport"
+		}
+	]
+}

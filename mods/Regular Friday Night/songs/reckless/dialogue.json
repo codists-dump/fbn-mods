@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Whoa dude, you're amazing!",
+			"boxState": "normal",
+			"portrait": "mordeport",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep blep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rigport",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "ugghhh "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rigport",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "GIMME THE MIC!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rigport",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "I'm bout to show you up Mordecai!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mordeport",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Pfft, good luck dude. You’ll need it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rigport",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "STOP TAALKIIING!!!"
+		}
+	]
+}

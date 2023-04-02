@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Oh hey! You're the new guy here right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "talk",
+			"text": "bep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfport"
+		},
+		{
+			"expression": "excited",
+			"text": "Rigby and I heard you like to rap, you think you could teach us?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "smug",
+			"text": "We already rap all the time, buuut we could probably do better.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "smug",
+			"text": "yeah",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "smug",
+			"text": "yeah",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "smug",
+			"text": "hmmhmm",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "smug",
+			"text": "hmhm hmhm",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "smug",
+			"text": "hmhm hmhm",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "pissed",
+			"text": "blep dee bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfport"
+		},
+		{
+			"expression": "ready",
+			"text": "Yeaaayuuh!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "excited",
+			"text": "Alright, I'll go first",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "mad",
+			"text": "Wait no, I get to go first!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "smug",
+			"text": "Wanna play punchies for it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "ugh",
+			"text": "Ughh.. fine you can go first..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rigport"
+		},
+		{
+			"expression": "smug",
+			"text": "That's what i thought.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "ready",
+			"text": "Alright dude, lets do this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mordeport"
+		},
+		{
+			"expression": "excited",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfport"
+		}
+	]
+}

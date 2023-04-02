@@ -1,0 +1,59 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "BOYFRIEND GET OUT HERE RIGHT NOW!!",
+			"boxState": "angry",
+			"portrait": "benport",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "uh oh",
+			"boxState": "normal",
+			"portrait": "mordeport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "eased",
+			"text": "Have you pissed off Benson yet?",
+			"boxState": "normal",
+			"portrait": "rigport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "scared",
+			"text": "bleep...",
+			"boxState": "normal",
+			"portrait": "bfport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "eased",
+			"text": "You better get out there before he flips his shit",
+			"boxState": "normal",
+			"portrait": "rigport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "yeah dude",
+			"boxState": "normal",
+			"portrait": "mordeport",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "boop skeedep",
+			"boxState": "normal",
+			"portrait": "bfport",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

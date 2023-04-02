@@ -1,0 +1,147 @@
+{
+	"dialogue": [
+		{
+			"expression": "scared",
+			"text": "beep?",
+			"boxState": "normal",
+			"portrait": "bfport",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh you know why i called you over.",
+			"boxState": "normal",
+			"portrait": "benport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "bop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfport"
+		},
+		{
+			"expression": "unamused",
+			"text": "You can't be slacking off all day!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "benport"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have to get back to work or I'm gonna have to fire you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "WHAT?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "BOP!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "benport",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "WHAT DO YOU MEAN NO?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "blep skoop boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know I thought you and your girlfriend could bring some more productivity around here."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Guess I was wrong."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep dee beep bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Rap battle? Really.?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "think",
+			"text": "I WAS in a band a while back.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright let's just get this over with."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "But if I win you have to get BACK to WORK"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benport",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "OR YOU'RE FIRED!"
+		}
+	]
+}
