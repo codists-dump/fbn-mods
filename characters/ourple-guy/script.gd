@@ -4,6 +4,8 @@ var start_scale
 
 var start_position
 
+var start_rotation
+
 var cur_flip = false
 
 var different_flip = false
@@ -15,13 +17,14 @@ func _process(_delta):
 	elif character.created:
 		start_scale = character.scale
 		start_position = character.sprite.position
+		start_rotation = character.icon.rotation_degrees
 	
 	if character.icon != null:
 		if character.icon.frame == 1:
 			var _random = rand_range(-5, 5)
-			character.icon.rotation_degrees = 180 + _random
+			character.icon.rotation_degrees = start_rotation + _random
 		else:
-			character.icon.rotation_degrees = 180
+			character.icon.rotation_degrees = start_rotation
 
 func _on_beat(_beat):
 	cur_flip = !cur_flip
