@@ -1,0 +1,12 @@
+[
+    {
+      "text": "WARNING!\nThis song has special effects which includes\na small brief pattern of flashing lights.",
+      "startStep": 10,
+      "endStep": 100
+    },
+    {
+      "text":"Taki, we officially welcome you to FeverTown church.",
+      "startStep":2081,
+      "endStep":2113
+    }
+]

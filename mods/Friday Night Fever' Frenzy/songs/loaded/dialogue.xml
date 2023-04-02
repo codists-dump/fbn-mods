@@ -1,0 +1,43 @@
+<file>
+    <action msg='Finally caught up with you!' portrait="fever" emotion="point-forward"/>
+	<action msg='Man, I need to do more cardio...' portrait="fever" emotion="embarrassed"/>
+	<action msg='Hey uh, Fever?' portrait="tea" emotion="thinking"/>
+    <action msg='I know you usually like to do that thing where you hold off on transforming till the end...' />
+    <action msg='But maybe we could like- skip out on that this time? Things seem serious.' />
+    <action msg='Yeah... about that...' portrait="fever" emotion="embarrassed"/>
+    <action msg='I’ve been trying to go demon for the last few minutes, and it’s not workin’.' portrait="fever" emotion="ugh"/>
+    <action msg="What do you MEAN you can’t? That's just something that can happen? Or... CAN'T?" portrait="tea" emotion="worried" effect="jump"/>
+    <action msg='That’d be cause of me, actually.' portrait="robo-fever"/>
+    <action msg='Huh? Cause of you?' portrait="fever" emotion="shocked"/>
+    <action msg="You’re probably wondering why your so called 'demon form' isn't working." portrait="robo-fever" emotion="neutral"/>
+    <action msg="Considering that you'll both be ash by the end of the day, I guess I can tell you." />
+	<action msg='I was made with one sole purpose.' />
+    <action msg='Destroying you.' />
+    <action msg='Pfft, whatever. I’ve already dealt with loads of people like you.' portrait="fever" emotion="point"/>
+    <action msg='I’m already aware. I know that your toughest battle was with the ghost in the painting.' portrait="robo-fever" emotion="neutral"/>
+    <action msg='I know about your encounter with the alien nun.' />
+    <action msg='I even know that you’re self-conscious about how loud you snore.' />
+    <action msg='“N-no... this can’t be... ' portrait="fever" emotion="shocked"/>
+    <action msg='how does he know?' portrait="fever" emotion="ugh" proceedImmediately="true"/>
+    <action msg='HOW DO YOU KNOW??' portrait="fever" emotion="point-forward" effect="jump"/>
+    <action msg='EVERYONE on the block knows, Fever.' portrait="tea" emotion="pointing-wtf"/>
+    <action msg='I’d be surprised if there was a person in Fever Town that COULDN’T hear you snore.' />
+    <action msg='That’s not all either.' portrait="robo-fever" emotion="neutral"/>
+    <action msg='Every single robot that came with me into Town has a similar purpose:' />
+    <action msg='To find whoever they were built after.' />
+    <action msg='And end them.' />
+    <action msg='Cleanly, quietly, and mandatory.' />
+    <action msg='But... how? How do you know so much about us?' portrait="fever" emotion="shocked"/>
+    <action msg='Your guys’s microphones are one of the WORST when it comes to security.' portrait="robo-fever" emotion="neutral"/>
+    <action msg='You guys HACKED into our mics?' portrait="fever" emotion="shocked" />
+    <action msg='For a while now. And we listened.' portrait="robo-fever" emotion="neutral"/>
+    <action msg='And copied.' />
+    <action msg='And learned.' />
+    <action msg='And now, we’ll rid all of you, and take the town for ourselves.' />
+    <action msg='Not if WE have anything to say about it! Right babe?' portrait="fever" emotion="point-forward" effect="jump"/>
+    <action narrate='...'/>
+    <action msg='Shit, again??' portrait="fever" emotion="shocked"/>
+    <action msg='Seems her robotic counterpart swooped her away.' portrait="robo-fever" emotion="neutral"/>
+    <action msg='But enough talk- allow me to reunite you with her.' />
+    <action msg='I’ll use some newfound data this time.' />
+</file>

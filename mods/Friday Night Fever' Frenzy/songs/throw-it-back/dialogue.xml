@@ -1,0 +1,30 @@
+<file>
+	<action msg="Ugh, give up already!" portrait="hunni" emotion="angry"/>
+	<action msg="Come on- can't we just start things anew? I'm at least singing along with you..." portrait="feverd" emotion="frown"/>
+	<action msg="You think that YOU can entertain me with your idea of a weak ass show? Even after all that, you wanna humiliate me some more?" portrait="hunni" emotion="angry"/>
+	<action msg="I SAID I WAS SORRY." portrait="feverd" emotion="frown"/>
+	<action msg="Seriously, this town is FULL of people from space, and you think I'm still lying to you?" portrait="feverd" emotion="frown"/>
+	<action msg="You don't even REALIZE the shit I went through while in prison. I'm lucky they haven't even found me yet!" portrait="feverd" emotion="frown"/>
+	<action msg="You're insane." portrait="hunni" emotion="angry"/>
+	<action msg="I'm not! I'm-" portrait="feverd" emotion="frown"/>
+	<action msg="You were always crazy. And stupid. And loud. And didn't know when to shut up." portrait="hunni" emotion="angry"/>
+	<action msg="And yet, right now, as much as I want to strangle you..." portrait="hunni" emotion="angry"/>
+	<action msg="I just.. fucking can't. I can't." portrait="hunni" emotion="angry"/>
+	<action msg="If you're telling the truth, and I can still hardly believe you, then this was all just a waste of time." portrait="hunni" emotion="angry"/>
+	<action msg="But I really HOPE you are. That point of my life, having to tackle crowds, wondering if my friend would ever show up..." portrait="hunni" emotion="angry"/>
+	<action msg="I really, really wanted to make it." portrait="feverd" emotion="frown"/>
+	<action msg="But shit happens. I was... busy, okay?" portrait="feverd" emotion="frown"/>
+	<action msg="..." portrait="hunni" emotion="angry"/>
+	<action msg="At least I still look cool." portrait="feverd" emotion="neutral"/>
+	<action msg="Yeah you look rad." portrait="cherry" emotion="neutral"/>
+	<action msg="Thanks Cherry." portrait="feverd" emotion="neutral"/>
+	<action msg="I think I'm gonna fucking vomit." portrait="food" emotion="ill"/>
+	<action msg="Why are you still here?" portrait="hunni" emotion="angry"/>
+	<action msg="Ugh." portrait="hunni" emotion="angry"/>
+	<action msg="Whatever. I'll forgive you for once." portrait="hunni" emotion="neutral"/>
+	<action msg="I should know better than to expect you to be on time to things." portrait="hunni" emotion="neutral"/>
+	<action msg="Okaaaay, I get it." portrait="feverd" emotion="neutral"/>
+	<action msg="...It'd be nice to perform without an audience watching for once." portrait="hunni" emotion="neutral"/>
+	<action msg="I dunno if you can keep up with me, though. I'm probably leagues above you now." portrait="hunni" emotion="neutral"/>
+	<action msg="Let's see. You first." portrait="feverd" emotion="point"/>
+</file>

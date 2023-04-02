@@ -1,0 +1,27 @@
+<file>
+	<action msg="..." portrait="feverd" emotion="neutral"/>
+	<action msg="..." portrait="hunni" emotion="neutral"/>
+	<action msg="I win." portrait="fever" emotion="neutral"/>
+	<action msg="Huh? You mean I won-" portrait="hunni" emotion="angry"/>
+	<action msg="Nah, I won." portrait="fever" emotion="neutral"/>
+	<action msg="I totally aced that!" portrait="fever" emotion="point"/>
+	<action msg="Ugh! Fucking-" portrait="hunni" emotion="angry"/>
+	<action msg="I-" portrait="hunni" emotion="angry"/>
+	<action msg="Man, whatever. Fine, I guess you win this one." portrait="hunni" emotion="neutral"/>
+	<action msg="You should feel proud, not many can hold that title to their name." portrait="hunni" emotion="neutral"/>
+	<action msg="Huh? Hunni admitting that she lost? What kind of universe is this?" portrait="fever" emotion="hey"/>
+	<action msg="Don't get too cocky about one victory." portrait="hunni" emotion="angry"/>
+	<action msg="Besides, no one's gonna know about this." portrait="hunni" emotion="neutral"/>
+	<action msg="I know about this." portrait="cherry" emotion="neutral"/>
+	<action msg="Glad you two have stuck together this long. I wish we at least could've gone for a swim." portrait="fever" emotion="facepalm-stare"/>
+	<action msg="Who says we all still can'?" portrait="hunni" emotion="neutral"/>>
+	<action msg="I don't have the clothes necessary for that." portrait="tea" emotion="pointing"/>
+	<action msg="We can just go buy some, you know." portrait="cherry" emotion="neutral"/>
+	<action msg="Hunni's a sucker for shopping." portrait="cherry" emotion="neutral"/>
+	<action msg="Cherry." portrait="hunni" emotion="neutral"/>
+	<action msg="Also Fever, you're into sweet girls? What happened to being into tough girls?" portrait="hunni" emotion="neutral"/>
+	<action msg="Or guys?" portrait="cherry" emotion="neutral"/>
+	<action msg="Buff guys?" portrait="hunni" emotion="neutral"/>
+	<action msg="Can we go shopping now." portrait="fever" emotion="facepalm-stare"/>
+	<action msg="I really have to pee." portrait="food" emotion="angry"/>
+</file>
