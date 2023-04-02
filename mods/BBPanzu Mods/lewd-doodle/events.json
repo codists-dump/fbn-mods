@@ -1,0 +1,121 @@
+{
+	"song": {
+		"events": [
+			[
+				12857.1428571429,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"boyfriend"
+					]
+				]
+			],
+			[
+				74571.4285714286,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"boyfriend"
+					]
+				]
+			],
+			[
+				75535.7142857143,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			],
+			[
+				79714.2857142857,
+				[
+					[
+						"Play Animation",
+						"p",
+						"dad"
+					]
+				]
+			],
+			[
+				80571.4285714286,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"dad"
+					],
+					[
+						"CameraControl",
+						"734,202",
+						"4"
+					]
+				]
+			],
+			[
+				81214.2857142857,
+				[
+					[
+						"CameraControl",
+						"362,220",
+						"8"
+					]
+				]
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"CameraControl",
+						"580,230",
+						"2"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112928.571428571,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"boyfriend"
+					]
+				]
+			]
+		]
+	}
+}
