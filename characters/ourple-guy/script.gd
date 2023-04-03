@@ -44,7 +44,7 @@ func _on_beat(_beat):
 			character.icon.flip_h = cur_flip
 
 func _on_step(_step):
-	if int(_step) % 2 == 0:
+	if floor(_step) % 2 == 0:
 		if character.icon.frame == 1:
 			different_flip = !different_flip
 			character.icon.flip_h = different_flip
