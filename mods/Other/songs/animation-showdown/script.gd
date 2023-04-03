@@ -50,7 +50,7 @@ func _loaded():
 	clear_background()
 
 	var _bg = new_sprite(assets_folder + "bg.png")
-	_bg.position = (Vector2(1920, 1080) / 2) + Vector2(0, -250)
+	_bg.position = (Vector2(1920, 1080) / 2) + Vector2(0, -300)
 	_bg.scale = Vector2.ONE * 3
 	_bg.z_index = -10
 	stage.add_child(_bg)
@@ -58,14 +58,14 @@ func _loaded():
 	player_gun = new_sprite(assets_folder + "gun.png")
 	player_gun.show_behind_parent = true
 
-	player_gun.position.x = 200
+	player_gun.position.x = -200 * sign(player_character.scale.x)
 	player_gun.flip_h = player_character.flip_x
 	
 	player_gun.visible = false
 	player_character.add_child(player_gun)
 
 	enemy_gun = new_sprite(assets_folder + "gun.png")
-	enemy_gun.position.x = -200
+	enemy_gun.position.x = 200 * sign(enemy_character.scale.x)
 	enemy_gun.show_behind_parent = true
 
 	enemy_gun.flip_h = not enemy_character.flip_x
@@ -78,7 +78,7 @@ func _loaded():
 	gf_character.add_child(gf_gun)
 
 	stage.cam_unlocked = true
-	stage.return_zoom = Vector2(1.6, 1.6)
+	stage.return_zoom = Vector2(1.5, 1.5)
 
 	hud.modulate.a = 0
 	
@@ -96,27 +96,29 @@ func _process(_delta):
 	gun_movement(enemy_gun, enemy_character, _delta)
 	gun_movement(gf_gun, gf_character, _delta, 60)
 
+	player_gun.rotation_degrees = lerp(player_gun.rotation_degrees, 0, _delta * 20)
+	enemy_gun.rotation_degrees = lerp(enemy_gun.rotation_degrees, 0, _delta * 20)
+
 func gun_movement(_gun, _player, _delta, _multi = 40):
 	if _gun == null:
 		return
 	
-	if not is_instance_valid(_player):
-		return
-	
 	var _offset = Vector2.ZERO
-	var _cur_anim = _player.animation_player.current_animation
 
-	if _cur_anim == "":
-		return
+	if is_instance_valid(_player):	
+		var _cur_anim = _player.animation_player.current_animation
 
-	if _cur_anim == "singLEFT":
-		_offset = Vector2.LEFT
-	elif _cur_anim == "singDOWN":
-		_offset = Vector2.DOWN
-	elif _cur_anim == "singUP":
-		_offset = Vector2.UP
-	elif _cur_anim == "singRIGHT":
-		_offset = Vector2.RIGHT
+		if _cur_anim == "":
+			return
+
+		if _cur_anim == "singLEFT":
+			_offset = Vector2.LEFT
+		elif _cur_anim == "singDOWN":
+			_offset = Vector2.DOWN
+		elif _cur_anim == "singUP":
+			_offset = Vector2.UP
+		elif _cur_anim == "singRIGHT":
+			_offset = Vector2.RIGHT
 	
 	_gun.offset = lerp(_gun.offset, _offset * _multi, _delta * 20)
 
@@ -144,7 +146,7 @@ func _on_beat(_beat):
 			tween(player_character, "scale:x", player_character.scale.x, -player_character.scale.x, 0.2)
 		4:
 			camera.position.x = (enemy_character.position.x + player_character.position.x) / 2
-			camera.zoom = stage.return_zoom
+			camera.zoom = stage.return_zoom + Vector2(0.1, 0.1)
 		7:
 			tween(enemy_character, "position", enemy_character.position, enemy_start, 0.6)
 		10:
@@ -153,10 +155,18 @@ func _on_beat(_beat):
 			hud.modulate.a = 1
 
 			stage.cam_unlocked = false
+		16:
+			hud.bop_mod = 2
+		112:
+			hud.bop_mod = 1
+		176:
+			hud.bop_mod = 2
 
 func _on_step(_step):
 	match int(_step):
 		30:
 			player_gun.visible = true
+			player_gun.rotation_degrees = -90
 		34:
 			enemy_gun.visible = true
+			enemy_gun.rotation_degrees = 90
