@@ -13,15 +13,17 @@ var gf_gun
 
 var is_3_player = false
 
+var folder = "/assets/animation-showdown/"
+
 onready var songs_folder = Resources.get_parent_directory(script_directory)
 onready var mod_folder = Resources.get_parent_directory(songs_folder)
-onready var assets_folder = mod_folder + "/assets/animation-showdown/"
+onready var assets_folder = mod_folder + folder
 
 func _get_resources():
 	return [
-		assets_folder + "bg.png",
-		assets_folder + "gun.png",
-		assets_folder + "gun forward.png",
+		folder + "bg.png",
+		folder + "gun.png",
+		folder + "gun forward.png",
 	]
 
 func _loaded():
