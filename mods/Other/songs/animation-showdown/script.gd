@@ -103,12 +103,12 @@ func _process(_delta):
 
 
 func gun_movement(_gun, _player, _delta, _multi = 40):
-	if _gun == null:
+	if not is_instance_valid(_gun):
 		return
 	
 	var _offset = Vector2.ZERO
 
-	if is_instance_valid(_player):	
+	if is_instance_valid(_player):
 		var _cur_anim = _player.animation_player.current_animation
 
 		if _cur_anim == "":
@@ -133,15 +133,16 @@ func _note_created(_note):
 		return
 	
 	var _note_type = "GF Sing"
-	if play_state.is_odd_player:
+	if not play_state.is_odd_player:
 		_note_type = ""
 	
 	if _note.note_value == _note_type:
 		_note.queue_free()
 
 func _note_hit_any(_note, _timing):
-	if _note.note_value == "GF Sing":
-		_note.button.get_parent().character = gf_character
+	if _note.must_hit:
+		if _note.note_value == "":
+			_note.button.get_parent().character = gf_character
 
 func _on_beat(_beat):
 	match int(_beat):
