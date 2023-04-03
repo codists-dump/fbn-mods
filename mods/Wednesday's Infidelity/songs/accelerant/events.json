@@ -1,0 +1,84 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "jankacStage",
+		"player1": "bf-suicide",
+		"player2": "jank",
+		"player3": null,
+		"events": [
+			[
+				7363.63636363636,
+				[
+					[
+						"Play Animation",
+						"intro",
+						"dad"
+					]
+				]
+			],
+			[
+				95727.2727272727,
+				[
+					[
+						"Play Animation",
+						"appear",
+						"gf"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				131454.545454545,
+				[
+					[
+						"Play Animation",
+						"byeDonald",
+						"dad"
+					]
+				]
+			],
+			[
+				132136.363636364,
+				[
+					[
+						"Play Animation",
+						"die",
+						"gf"
+					],
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-dead"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-accelerant",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Accelerant"
+	}
+}

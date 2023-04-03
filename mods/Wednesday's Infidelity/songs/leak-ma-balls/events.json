@@ -1,0 +1,369 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "stageLeakers",
+		"player1": "leaker1",
+		"player2": "leakermouse",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107.142857142857,
+				[
+					[
+						"Play Animation",
+						"whats that",
+						"dad"
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Play Animation",
+						"dig in ass",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"floss",
+						"gf"
+					]
+				]
+			],
+			[
+				11678.5714285714,
+				[
+					[
+						"Play Animation",
+						"dig in assEnd",
+						"bf"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14785.7142857143,
+				[
+					[
+						"Play Animation",
+						"kiss ass",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"bitch",
+						"bf"
+					]
+				]
+			],
+			[
+				20464.2857142857,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"gf"
+					]
+				]
+			],
+			[
+				20568.75,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20571.4285714286,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20785.7142857143,
+				[
+					[
+						"Play Animation",
+						"wafiu",
+						"dad"
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33428.5714285714,
+				[
+					[
+						"Idle Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34285.7142857143,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61714.2857142858,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74571.4285714286,
+				[
+					[
+						"Idle Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89142.8571428571,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102851.785714286,
+				[
+					[
+						"Idle Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"book",
+						"dad"
+					]
+				]
+			],
+			[
+				116571.428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"leakermouse-book"
+					],
+					[
+						"Flash Black",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130285.714285714,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137142.857142857,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142285.714285714,
+				[
+					[
+						"Idle Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				157714.285714286,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				198857.142857143,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				205714.285714285,
+				[
+					[
+						"Trompeta Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				212571.428571428,
+				[
+					[
+						"Idle Diablo Leakers",
+						"",
+						""
+					]
+				]
+			],
+			[
+				216535.714285714,
+				[
+					[
+						"Change Character",
+						"bf",
+						"leakersdead"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "leaker2",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Leak ma Balls"
+	}
+}
