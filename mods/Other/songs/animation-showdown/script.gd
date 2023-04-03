@@ -96,8 +96,11 @@ func _process(_delta):
 	gun_movement(enemy_gun, enemy_character, _delta)
 	gun_movement(gf_gun, gf_character, _delta, 60)
 
-	player_gun.rotation_degrees = lerp(player_gun.rotation_degrees, 0, _delta * 20)
-	enemy_gun.rotation_degrees = lerp(enemy_gun.rotation_degrees, 0, _delta * 20)
+	if player_gun != null:
+		player_gun.rotation_degrees = lerp(player_gun.rotation_degrees, 0, _delta * 20)
+	if enemy_gun != null:
+		enemy_gun.rotation_degrees = lerp(enemy_gun.rotation_degrees, 0, _delta * 20)
+
 
 func gun_movement(_gun, _player, _delta, _multi = 40):
 	if _gun == null:
