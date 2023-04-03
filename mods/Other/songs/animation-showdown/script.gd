@@ -56,15 +56,20 @@ func _loaded():
 	stage.add_child(_bg)
 
 	player_gun = new_sprite(assets_folder + "gun.png")
-	player_gun.position.x = 200
 	player_gun.show_behind_parent = true
-	player_gun.flip_h = true
+
+	player_gun.position.x = 200
+	player_gun.flip_h = not player_character.flip_x
+	
 	player_gun.visible = false
 	player_character.add_child(player_gun)
 
 	enemy_gun = new_sprite(assets_folder + "gun.png")
 	enemy_gun.position.x = -200
 	enemy_gun.show_behind_parent = true
+
+	enemy_gun.flip_h = enemy_character.flip_x
+
 	enemy_gun.visible = false
 	enemy_character.add_child(enemy_gun)
 
