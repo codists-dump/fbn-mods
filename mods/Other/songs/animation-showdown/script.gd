@@ -100,6 +100,7 @@ func _loaded():
 	gf_gun = new_sprite(assets_folder + "gun forward.png")
 	gf_gun.scale = Vector2.ONE * 0.5
 	gf_character.z_index = -5
+	gf_character.visible = false
 	gf_character.add_child(gf_gun)
 
 	stage.cam_unlocked = true
@@ -112,7 +113,7 @@ func _loaded():
 
 	enemy_character.position.x -= 200
 
-	gf_character.position.x += 4000
+	gf_character.position.x += 2000
 
 
 func _process(_delta):
@@ -199,6 +200,7 @@ func _on_beat(_beat):
 			walk_animation = true
 			tween(enemy_character, "position", enemy_character.position, enemy_start, 0.6, Tween.TRANS_QUAD, Tween.EASE_IN_OUT)
 		10:
+			gf_character.visible = true
 			tween(gf_character, "position", gf_character.position, gf_start, 0.5)
 		14:
 			_fade_cam(true)
