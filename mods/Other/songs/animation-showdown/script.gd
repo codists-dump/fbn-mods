@@ -155,13 +155,13 @@ func gun_movement(_gun, _player, _delta, _multi = 40):
 		if _cur_anim == "":
 			return
 
-		if _cur_anim == "singLEFT":
+		if _cur_anim.begins_with("singLEFT"):
 			_offset = Vector2.LEFT
-		elif _cur_anim == "singDOWN":
+		elif _cur_anim.begins_with("singDOWN"):
 			_offset = Vector2.DOWN
-		elif _cur_anim == "singUP":
+		elif _cur_anim.begins_with("singUP"):
 			_offset = Vector2.UP
-		elif _cur_anim == "singRIGHT":
+		elif _cur_anim.begins_with("singRIGHT"):
 			_offset = Vector2.RIGHT
 	
 	_gun.offset = lerp(_gun.offset, _offset * _multi, _delta * 20)
