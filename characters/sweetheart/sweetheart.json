@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "A-Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "C-Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "E-Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "D-Down"
+		},
+		{
+			"offsets": [
+				-164,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "B-Right"
+		},
+		{
+			"offsets": [
+				-24,
+				-6
+			],
+			"indices": [
+				1,
+				1,
+				1,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "F-Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sweetheart_FNF_Assets",
+	"position": [
+		30,
+		-320
+	],
+	"healthicon": "sweetheart",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		132,
+		194
+	],
+	"camera_position": [
+		300,
+		50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.75
+}

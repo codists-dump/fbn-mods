@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-17
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "B-OmoriLeft instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-80
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "C-OmoriDown instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				24
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "E-OmoriUp instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "D-OmoriRight instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "A-OmoriIdle instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "omori",
+	"position": [
+		0,
+		-250
+	],
+	"healthicon": "omori",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		150,
+		90
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
