@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "G-SU, I won't let you treat my friends like this!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "koudia3"
+		},
+		{
+			"expression": "talk",
+			"text": "We aren't supposed to have friends, KOU.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gsudia"
+		},
+		{
+			"expression": "talk",
+			"text": "That's not true!",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "koudia3"
+		},
+		{
+			"expression": "talk",
+			"text": "I... I thought we were friends.",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "koudia4"
+		},
+		{
+			"expression": "talk",
+			"text": "You do not feel the same?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "koudia4"
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "gsudia"
+		},
+		{
+			"expression": "talk",
+			"text": "We are not supposed to feel anything.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gsudia"
+		},
+		{
+			"expression": "talk",
+			"text": "We are machines.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gsudia"
+		},
+		{
+			"expression": "talk",
+			"text": "G-SU...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "koudia3"
+		}
+	]
+}

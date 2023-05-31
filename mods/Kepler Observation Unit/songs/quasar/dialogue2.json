@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gsudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright. You make a convincing argument.\\nI will allow you all to go free for now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "G-SU?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gsudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "However, KOU, you must refrain from\\ndistributing classified information so freely in the future."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kouwink2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Of course! I promise to be more cautious from now on."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gsudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And... If you really feel so strongly about this concept of friendship..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gsudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I suppose I could put aside time to consider it as well."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kouwink2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!!"
+		}
+	]
+}

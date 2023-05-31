@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah- guests! Welcome to the observatory!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "May I be of assistance?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Evil parents? I can't say I've detected any of those around here before."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo bop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! I was just about to deliver this month's sky report."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Perhaps I could share some knowledge with you instead!"
+		}
+	]
+}

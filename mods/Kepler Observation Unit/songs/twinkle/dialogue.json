@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "My friends, you came back! It's been months since I've last seen you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kouwink"
+		},
+		{
+			"expression": "talk",
+			"text": "bap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I've just returned from a space expedition, there is so much for me to tell you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kouwink"
+		},
+		{
+			"expression": "talk",
+			"text": "beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, let's go!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kouwink"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "G-SU..? What are you doing?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shackleddia"
+		},
+		{
+			"expression": "talk",
+			"text": "You are under arrest for revealing classified information to unauthorized personnel. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gsudia"
+		},
+		{
+			"expression": "talk",
+			"text": "All space expeditions are to be kept \\nconfidential. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gsudia"
+		},
+		{
+			"expression": "talk",
+			"text": "These two will also be brought in for\\nquestioning.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gsudia"
+		},
+		{
+			"expression": "talk",
+			"text": "G-SU, wait!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shackleddia"
+		},
+		{
+			"expression": "talk",
+			"text": "put your hands where I can see them.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gsudia"
+		}
+	]
+}

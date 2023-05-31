@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I agree! Our universe truly is incredible."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Most of the data I've gathered has been through space observation and exploration."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop skoo dop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, you couldn't tell? I'm an android."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The Kepler Observation Unit to be exact!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But you can call me \"\"''KOU.\"\"''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, friend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Would you like to hear some more?"
+		}
+	]
+}

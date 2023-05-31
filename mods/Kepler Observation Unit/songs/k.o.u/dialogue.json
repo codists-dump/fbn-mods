@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have to leave now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Will you come see me again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I- I mean!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There is still so much I have not shared with you two!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "koudia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can't help but want to share everything I know about the universe, it's in my code."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bo beep :)"
+		}
+	]
+}
