@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				104727.272727273,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"yed-sax"
+					],
+					[
+						"Light",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				139636.363636364,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"yed"
+					]
+				]
+			]
+		]
+	}
+}
