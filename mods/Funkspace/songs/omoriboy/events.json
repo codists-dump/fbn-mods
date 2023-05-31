@@ -1,0 +1,194 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "omoriboy",
+		"player1": "bf",
+		"player2": "omoriboy",
+		"player3": null,
+		"events": [
+			[
+				31751.8248175183,
+				[
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				33503.6496350365,
+				[
+					[
+						"Camera Change Zoom",
+						"0.0",
+						""
+					]
+				]
+			],
+			[
+				35255.4744525548,
+				[
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				37007.299270073,
+				[
+					[
+						"Camera Change Zoom",
+						"0.0",
+						""
+					]
+				]
+			],
+			[
+				40510.9489051095,
+				[
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				42262.7737226277,
+				[
+					[
+						"Camera Change Zoom",
+						"0.0",
+						""
+					]
+				]
+			],
+			[
+				59562.0437956204,
+				[
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				61094.8905109489,
+				[
+					[
+						"Camera Change Zoom",
+						"0.25",
+						""
+					]
+				]
+			],
+			[
+				62846.7153284671,
+				[
+					[
+						"Camera Change Zoom",
+						"0.0",
+						""
+					]
+				]
+			],
+			[
+				106861.313868613,
+				[
+					[
+						"Camera Change Zoom",
+						"0.25",
+						""
+					]
+				]
+			],
+			[
+				152408.759124088,
+				[
+					[
+						"Play Animation",
+						"smirk",
+						""
+					],
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				152846.715328467,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153284.671532847,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153613.138686131,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153941.605839416,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168394.160583941,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				189197.080291971,
+				[
+					[
+						"Camera Change Zoom",
+						"0.0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 137,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Omoriboy"
+	}
+}
