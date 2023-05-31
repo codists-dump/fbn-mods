@@ -60,7 +60,7 @@
 	"image": "characters/marko",
 	"position": [
 		0,
-		0
+		-100
 	],
 	"healthicon": "marko",
 	"flip_x": false,
