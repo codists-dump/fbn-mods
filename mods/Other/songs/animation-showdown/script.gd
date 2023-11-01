@@ -1,9 +1,5 @@
 extends FNFStage
 
-var player_character
-var enemy_character
-var gf_character
-
 var enemy_start
 var gf_start
 
