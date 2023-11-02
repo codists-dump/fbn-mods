@@ -1,10 +1,6 @@
 extends FNFScript
 
 func register_character(character):
-	print("registering" + str(character))
-	if (character == null):
-		return
-	
 	character.connect("taunted", self, "_on_taunt", [character])
 
 func _on_taunt(_alt_key, _character):
