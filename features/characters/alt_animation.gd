@@ -1,7 +1,7 @@
 extends FNFScript
 
 func register_character(character):
-	print("registering" + str(character)
+	print("registering" + str(character))
 	if (character == null):
 		return
 	
