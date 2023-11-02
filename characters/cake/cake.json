@@ -3,30 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				274,
-				255
-			],
-			"anim": "singLEFT",
-			"fps": 30,
-			"name": "left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				274,
-				255
-			],
-			"anim": "singUP",
-			"fps": 30,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				274,
-				255
+				76,
+				92
 			],
 			"anim": "singDOWN",
 			"fps": 30,
@@ -36,8 +14,30 @@
 		{
 			"loop": false,
 			"offsets": [
-				274,
-				255
+				87,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				85
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				76
 			],
 			"anim": "singRIGHT",
 			"fps": 30,
@@ -57,22 +57,22 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/cake",
+	"image": "characters/cakebear",
 	"position": [
 		0,
-		-160
+		-200
 	],
-	"healthicon": "minifreddy",
+	"healthicon": "cake",
 	"flip_x": false,
 	"healthbar_colors": [
-		247,
+		243,
 		118,
-		1
+		0
 	],
 	"camera_position": [
-		150,
-		30
+		120,
+		10
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 3
 }
