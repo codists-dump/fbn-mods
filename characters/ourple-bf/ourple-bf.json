@@ -1,0 +1,298 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singLEFTmiss",
+			"fps": 30,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singDOWNmiss",
+			"fps": 30,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singUPmiss",
+			"fps": 30,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				49
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 30,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				29
+			],
+			"anim": "firstDeath",
+			"fps": 30,
+			"name": "die",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				62,
+				29
+			],
+			"anim": "deathLoop",
+			"fps": 30,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				30
+			],
+			"anim": "deathConfirm",
+			"fps": 30,
+			"name": "retry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "transALTin",
+			"fps": 30,
+			"name": "trans",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-15
+			],
+			"anim": "transALTout",
+			"fps": 10,
+			"name": "transback",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-15
+			],
+			"anim": "hey",
+			"fps": 20,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-15
+			],
+			"anim": "hey-alt",
+			"fps": 20,
+			"name": "heyalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "idle-alt",
+			"fps": 30,
+			"name": "idlealt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singLEFT-alt",
+			"fps": 30,
+			"name": "leftalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singDOWN-alt",
+			"fps": 30,
+			"name": "downalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singUP-alt",
+			"fps": 30,
+			"name": "upalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 30,
+			"name": "rightalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 30,
+			"name": "missleftalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 30,
+			"name": "missdownalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 30,
+			"name": "missupalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				56
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 30,
+			"name": "missrightalt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourplebf",
+	"position": [
+		0,
+		-180
+	],
+	"healthicon": "ourplebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3
+}
