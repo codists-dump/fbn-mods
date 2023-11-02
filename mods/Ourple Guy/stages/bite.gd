@@ -227,7 +227,7 @@ func _loaded():
     door(false, true)
     door(false, false)
 
-    _on_end_intro()
+    #_on_end_intro()
 
     camera.position = Vector2.ZERO
     camera.reset_smoothing()
@@ -422,19 +422,6 @@ func _on_beat(_beat):
 		timer(3, "_on_end_title")
 
 func _on_step(_step):
-    if _step == 5:
-        # open cams
-        open_camera()
-
-    if _step == 15:
-        # close cams
-        golden_start()
-        close_camera()
-
-    if _step == 50:
-        # golden freddy dies :(
-        golden_fade()
-    
     # event stuff
 
     if _step == 188:
