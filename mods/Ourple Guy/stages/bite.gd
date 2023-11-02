@@ -69,6 +69,8 @@ func _get_resources():
 
 		resource_folder + "DJcamera.png",
 		resource_folder + "DJcamera.xml",
+
+        resource_folder + "gold_shader.gdshader"
 	]
 
 
@@ -225,7 +227,7 @@ func _loaded():
     door(false, true)
     door(false, false)
 
-    #_on_end_intro()
+    _on_end_intro()
 
     camera.position = Vector2.ZERO
     camera.reset_smoothing()
@@ -233,26 +235,20 @@ func _loaded():
     loaded = true
 
 func _process(_delta):
-	if loaded:
-		camera.position = Vector2.ZERO
-	
-		if screaming:
-			var ashes = 20
-			hud_player_parent.position = Vector2(rand_range(-ashes, ashes), rand_range(-ashes, ashes))
-		else:
-			hud_player_parent.position = Vector2.ZERO
-		
-		if golden:
-			var alpha = enemy_character.modulate.a
-			enemy_character.modulate = Color.gold.darkened(golden_timer / 4)
-			enemy_character.modulate.a = alpha
+    if loaded:
+        camera.position = Vector2.ZERO
 
-			golden_timer += (_delta * golden_timer_multi)
-			if golden_timer >= 1 and golden_timer_multi == 1:
-				golden_timer_multi = -1
-			if golden_timer <= 0 and golden_timer_multi == -1:
-				golden_timer_multi = 1
-
+        if screaming:
+            var ashes = 20
+            hud_player_parent.position = Vector2(rand_range(-ashes, ashes), rand_range(-ashes, ashes))
+        else:
+            hud_player_parent.position = Vector2.ZERO
+        
+        if golden:
+            var ratio = enemy_character.sprite.texture.get_size() / enemy_character.sprite.region_rect.size
+            var offset = enemy_character.sprite.region_rect.position / enemy_character.sprite.texture.get_size() * ratio
+            enemy_character.sprite.material.set_shader_param("ratio", ratio)
+            enemy_character.sprite.material.set_shader_param("offset", offset)
 
 func _on_end_title():
 	static_sprite.animation_player.stop(false)
@@ -323,8 +319,11 @@ func _on_cam_open_anim(_animation):
 
 
 func golden_start():
-    enemy_character.visible = true
+    enemy_character.sprite.material = ShaderMaterial.new()
+    enemy_character.sprite.material.shader = load(assets_folder + "gold_shader.gdshader")
 
+    enemy_character.visible = true
+    
     golden = true
     enemy_character.rotation_degrees = 0
     enemy_character.position = Vector2(0, 550) + enemy_character.position_offset
@@ -335,11 +334,13 @@ func golden_fade():
 	timer(time, "golden_gone")
 
 func golden_gone():
-	golden = false
-	enemy_character.modulate = Color.white
-	enemy_character.modulate.a = 1.0
+    enemy_character.sprite.material = null
 
-	enemy_character.position.y = 9000
+    golden = false
+    enemy_character.modulate = Color.white
+    enemy_character.modulate.a = 1.0
+
+    enemy_character.position.y = 9000
 
 
 func close_camera():
@@ -353,20 +354,20 @@ func _on_cam_close_anim():
 
 
 func door(close = false, right = true, speed = 0.4):
-    var door = left_door
-    var button = left_door_button
-    if right:
-        door = right_door
-        button = right_door_button
+	var door = left_door
+	var button = left_door_button
+	if right:
+		door = right_door
+		button = right_door_button
 
-    var oofset = 1000
-    if close:
-        tween(door, "offset:y", -oofset, 0, speed, Tween.TRANS_CUBIC, Tween.EASE_IN)
-    else:
-        tween(door, "offset:y", 0, -oofset, speed, Tween.TRANS_CUBIC, Tween.EASE_IN)
+	var oofset = 1000
+	if close:
+		tween(door, "offset:y", -oofset, 0, speed, Tween.TRANS_CUBIC, Tween.EASE_IN)
+	else:
+		tween(door, "offset:y", 0, -oofset, speed, Tween.TRANS_CUBIC, Tween.EASE_IN)
 
-    button.visible = true
-    timer(0.2, "turn_off_button", [button])
+	button.visible = true
+	timer(0.2, "turn_off_button", [button])
 
 func turn_off_button(button):
 	button.visible = false
@@ -381,25 +382,25 @@ func _on_scream_done():
 
 
 func webcam_switch(right = true):
-    var new_pos = 0
-    if right:
-        new_pos = 930
-    
-    var speed = 1.0
-    tween(webcam_container, "position:x", webcam_container.position.x, new_pos, speed, Tween.TRANS_CUBIC, Tween.EASE_IN_OUT)
-    timer(speed / 2, "webcam_switch_side", [right])
+	var new_pos = 0
+	if right:
+		new_pos = 930
+	
+	var speed = 1.0
+	tween(webcam_container, "position:x", webcam_container.position.x, new_pos, speed, Tween.TRANS_CUBIC, Tween.EASE_IN_OUT)
+	timer(speed / 2, "webcam_switch_side", [right])
 
 func webcam_switch_side(right):
-    if right:
-        webcam_bg.flip_h = true
+	if right:
+		webcam_bg.flip_h = true
 
-        player_character.flip_x = not player_character.flip_x
-        player_character.scale.x *= -1
-    else:
-        webcam_bg.flip_h = false
+		player_character.flip_x = not player_character.flip_x
+		player_character.scale.x *= -1
+	else:
+		webcam_bg.flip_h = false
 
-        player_character.flip_x = not player_character.flip_x
-        player_character.scale.x *= -1
+		player_character.flip_x = not player_character.flip_x
+		player_character.scale.x *= -1
 
 
 func _on_beat(_beat):
@@ -421,6 +422,21 @@ func _on_beat(_beat):
 		timer(3, "_on_end_title")
 
 func _on_step(_step):
+    if _step == 5:
+        # open cams
+        open_camera()
+
+    if _step == 15:
+        # close cams
+        golden_start()
+        close_camera()
+
+    if _step == 50:
+        # golden freddy dies :(
+        golden_fade()
+    
+    # event stuff
+
     if _step == 188:
         # freddy appear
         enemy_appear(true)
