@@ -224,6 +224,11 @@ func _loaded():
     right_door_button.flip_h = true
     stage.add_child(right_door_button)
 
+    play_state.hud_ratings = true
+    
+    hud.middlescroll = true
+    hud.update_settings()
+
     door(false, true)
     door(false, false)
 
