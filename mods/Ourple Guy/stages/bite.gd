@@ -9,6 +9,7 @@ onready var assets_folder = mod_folder + resource_folder
 
 
 onready var hud_parent = Node2D.new()
+onready var timer_parent = Node2D.new()
 
 onready var webcam_container = Node2D.new()
 onready var webcam = Control.new()
@@ -16,6 +17,13 @@ onready var hud_player_parent = Node2D.new()
 
 onready var black_screen = ColorRect.new()
 var load_sprite
+
+onready var jumpscare_black = ColorRect.new()
+var jumpscare_player
+
+var time_foreground
+var time
+var time_foreground_fade
 
 var camera_sprite
 
@@ -33,6 +41,9 @@ var right_door_button
 var enemy_scale
 var enemy_flip = true
 
+var player_scale
+var player_flip = false
+
 var loaded = false
 var screaming = false
 
@@ -41,6 +52,73 @@ var golden_timer = 0.0
 var golden_timer_multi = 1
 
 var webcam_bg
+
+var guitar_sprite
+var cam_pos
+
+var jumpscare_timer = 0.0
+var jumpscare_scale = 0.0
+
+var done_ending = false
+
+var jumpscare_ms = [
+    22285.7142857143,
+    22428.5714285714,
+    22571.4285714286,
+    32000,
+    41142.8571428571,
+    41500,
+    41571.4285714286,
+    41642.8571428571,
+    41714.2857142857,
+    42285.7142857143,
+    42642.8571428571,
+    42714.2857142857,
+    42785.7142857143,
+    42857.1428571429,
+    186857.142857142,
+    191714.285714285,
+    191785.714285714,
+    191857.142857142,
+    192285.714285714,
+    192357.142857142,
+    192428.571428571,
+    192571.428571428,
+    192714.285714285,
+    227999.999999999,
+    228142.857142856,
+    228285.714285713,
+    237714.285714285,
+]
+
+var jumpscare_kill_ms = [
+    22410.7142857143,
+    22553.5714285714,
+    22857.1428571429,
+    32571.4285714286,
+    41553.5714285714,
+    41625,
+    41696.4285714286,
+    42267.8571428571,
+    42696.4285714286,
+    42767.8571428571,
+    42839.2857142857,
+    43428.5714285714,
+    148571.428571429,
+    187428.571428571,
+    191767.857142857,
+    191839.285714285,
+    192267.857142857,
+    192339.285714285,
+    192410.714285714,
+    192553.571428571,
+    192696.428571428,
+    193428.571428571,
+    228107.142857142,
+    228249.999999999,
+    228571.428571428,
+    238285.714285713,
+]
 
 
 func _get_resources():
@@ -70,7 +148,11 @@ func _get_resources():
 		resource_folder + "DJcamera.png",
 		resource_folder + "DJcamera.xml",
 
-        resource_folder + "gold_shader.gdshader"
+        resource_folder + "gold_shader.gdshader",
+
+        resource_folder + "time.png",
+        resource_folder + "time_fg.png",
+        resource_folder + "time_fg_fade.png",
 	]
 
 
@@ -118,6 +200,14 @@ func _loaded():
     black_screen.rect_position -= black_screen.rect_size / 2
     hud_parent.add_child(black_screen)
 
+    jumpscare_black.color = Color.black
+    jumpscare_black.rect_size = Vector2(1280 * 2, 720 * 2)
+    jumpscare_black.rect_position -= jumpscare_black.rect_size / 2
+    hud_parent.add_child(jumpscare_black)
+    
+    jumpscare_player = enemy_character.sprite.duplicate()
+    hud_parent.add_child(jumpscare_player)
+
     load_sprite = new_sprite_xml(assets_folder + "load")
     hud_parent.add_child(load_sprite)
     load_sprite.scale = Vector2.ONE / 2
@@ -154,9 +244,27 @@ func _loaded():
     hud_parent.add_child(camera_sprite)
     camera_sprite.visible = false
     camera_sprite.position -= Vector2(800, 541.45)
+    cam_pos = camera_sprite.position
     camera_sprite.scale = Vector2.ONE * 0.65
     camera_sprite.add_by_prefix("open", "CamFLIP", [0, 0], 24, false)
     camera_sprite.add_by_prefix("loop", "CamLOOP", [90, 0], 24, true)
+
+    timer_parent.z_index = 1
+    hud.add_child(timer_parent)
+
+    time = new_sprite(assets_folder + "time.png")
+    time.position += Vector2(-29.5, 36)
+    time.visible = false
+    timer_parent.add_child(time)
+    
+    time_foreground = new_sprite(assets_folder + "time_fg.png")
+    time_foreground.visible = false
+    timer_parent.add_child(time_foreground)
+
+    time_foreground_fade = new_sprite(assets_folder + "time_fg_fade.png")
+    time_foreground_fade.visible = false
+    timer_parent.add_child(time_foreground_fade)
+    
 
     # the actual stage part
     stage.return_zoom = Vector2.ONE * 1.95
@@ -180,7 +288,7 @@ func _loaded():
     var _blackbg = ColorRect.new()
     _blackbg.color = Color.black
     _blackbg.rect_size = Vector2(1280 * 2, 720 * 2)
-    _blackbg.rect_position -= black_screen.rect_size / 2
+    _blackbg.rect_position -= _blackbg.rect_size / 2
     _blackbg_container.add_child(_blackbg)
 
     left_door = new_sprite(assets_folder + "door.png")
@@ -198,6 +306,10 @@ func _loaded():
     _back.scale *= 2
     _back.z_index = -10
     stage.add_child(_back)
+
+    guitar_sprite = new_sprite(assets_folder + "guitar.png")
+    guitar_sprite.visible = false
+    stage.add_child(guitar_sprite)
 
     var _front = new_sprite(assets_folder + "stagefront.png")
     _front.scale *= 2
@@ -232,7 +344,12 @@ func _loaded():
     door(false, true)
     door(false, false)
 
-    #_on_end_intro()
+    _end_jumpscare()
+
+    enemy_character.sprite.animation_player.connect("animation_started", self, "_on_enemy_animation")
+
+    player_scale = player_character.scale
+    player_flip = player_character.flip_x
 
     camera.position = Vector2.ZERO
     camera.reset_smoothing()
@@ -254,6 +371,34 @@ func _process(_delta):
             var offset = enemy_character.sprite.region_rect.position / enemy_character.sprite.texture.get_size() * ratio
             enemy_character.sprite.material.set_shader_param("ratio", ratio)
             enemy_character.sprite.material.set_shader_param("offset", offset)
+        
+        if guitar_sprite.visible:
+            guitar_sprite.offset = lerp(guitar_sprite.offset, Vector2.ZERO, 10 * _delta)
+            guitar_sprite.position = enemy_character.position + Vector2(20, 50)
+            guitar_sprite.rotation_degrees = -20
+        
+        if jumpscare_timer > 0.0:
+            jumpscare_timer -= _delta
+            if jumpscare_timer <= 0.0:
+                jumpscare_timer = 0.0
+                _end_jumpscare()
+            
+            jumpscare_scale += _delta * 10
+            jumpscare_player.centered = true
+            jumpscare_player.position = Vector2(0, 20) + Vector2(rand_range(-5, 5), rand_range(-5, 5))
+            jumpscare_player.scale = Vector2.ONE * jumpscare_scale
+            
+        if len(jumpscare_ms) > 0:
+            if jumpscare_ms[0] <= Conductor.song_position:
+                jumpscare_ms.remove(0)
+                jumpscare()
+            if jumpscare_kill_ms[0] <= Conductor.song_position:
+                jumpscare_kill_ms.remove(0)
+                _end_jumpscare()
+        
+        if not done_ending and Conductor.song_position >= 242285.714285713:
+            done_ending = true
+            ending()
 
 func _on_end_title():
 	static_sprite.animation_player.stop(false)
@@ -282,6 +427,28 @@ func _on_end_intro():
 	tween(black_screen, "modulate:a", 1.0, 0, 0.5)
 
 	hud.do_hud_bop = true
+
+
+func ending():
+    hud.do_hud_bop = false
+    webcam_container.z_index = 2
+
+    time_foreground_fade.modulate.a = 0.0
+    time_foreground_fade.visible = true
+
+    var fade_time = 2.0
+    tween(time_foreground_fade, "modulate:a", 0, 1.0, fade_time, Tween.TRANS_LINEAR, Tween.EASE_IN_OUT)
+
+    timer(fade_time + 1.0, "ending2")
+
+func ending2():
+    time.visible = true
+    time_foreground.visible = true
+
+    time_foreground_fade.visible = false
+
+    time.offset = Vector2.ZERO
+    tween(time, "offset:y", 0, -65, 4.0, Tween.TRANS_LINEAR, Tween.EASE_IN_OUT)
 
 
 func enemy_appear(right = true, speed = 1):
@@ -334,9 +501,9 @@ func golden_start():
     enemy_character.position = Vector2(0, 550) + enemy_character.position_offset
 
 func golden_fade():
-	var time = 1.5
-	tween(enemy_character, "modulate:a", 1.0, 0.0, time)
-	timer(time, "golden_gone")
+	var timer = 1.5
+	tween(enemy_character, "modulate:a", 1.0, 0.0, timer)
+	timer(timer, "golden_gone")
 
 func golden_gone():
     enemy_character.sprite.material = null
@@ -386,6 +553,23 @@ func _on_scream_done():
 	screaming = false
 
 
+func jumpscare():
+    jumpscare_black.visible = true
+    jumpscare_black.color = Color.black
+
+    jumpscare_player.visible = true
+    jumpscare_player.scale = Vector2.ZERO
+    
+    jumpscare_scale = 0.0
+    jumpscare_timer = 1.0
+
+func _end_jumpscare():
+    jumpscare_black.visible = false
+    jumpscare_player.visible = false
+
+    jumpscare_timer = 0.0
+
+
 func webcam_switch(right = true):
 	var new_pos = 0
 	if right:
@@ -399,13 +583,22 @@ func webcam_switch_side(right):
 	if right:
 		webcam_bg.flip_h = true
 
-		player_character.flip_x = not player_character.flip_x
-		player_character.scale.x *= -1
+		player_character.flip_x = not player_flip
+		player_character.scale.x = -player_scale.x
 	else:
 		webcam_bg.flip_h = false
 
-		player_character.flip_x = not player_character.flip_x
-		player_character.scale.x *= -1
+		player_character.flip_x = player_flip
+		player_character.scale.x = player_scale.x
+
+
+func _on_enemy_animation(anim):
+    if guitar_sprite.visible:
+        if anim.begins_with("sing"):
+            enemy_character.play("idle")
+            guitar_sprite.offset = Vector2(0, 40)
+        elif anim == "idle" or anim == "danceLeft" or anim == "danceRight":
+            guitar_sprite.offset = Vector2(0, 10)
 
 
 func _on_beat(_beat):
@@ -428,7 +621,6 @@ func _on_beat(_beat):
 
 func _on_step(_step):
     # event stuff
-
     if _step == 188:
         # freddy appear
         enemy_appear(true)
@@ -453,6 +645,8 @@ func _on_step(_step):
     if _step == 756:
         # bonnie appear
         webcam_switch(true)
+        
+        guitar_sprite.visible = true
         enemy_appear(false)
     if _step == 1168:
         # bonnie leave and close left door
@@ -460,6 +654,8 @@ func _on_step(_step):
         enemy_bye(false)
 
     if _step == 1248:
+        guitar_sprite.visible = false
+
         # open left door
         door(false, false)
 
