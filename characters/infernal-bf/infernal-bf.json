@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				98
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BowserBF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				99
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BowserBF left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				144
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BowserBF down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BowserBF up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				94
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BowserBF right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				102
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				150
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				130
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				90
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				739
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BowserBF death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				741
+			],
+			"anim": "bap",
+			"fps": 24,
+			"name": "BowserBF death",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BowserBF",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "bbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		115,
+		215
+	],
+	"camera_position": [
+		-130,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
