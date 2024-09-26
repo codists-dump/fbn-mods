@@ -10,7 +10,6 @@
 				-21,
 				-144
 			],
-			"anim
 			"anim": "singUP",
 			"fps": 24,
 			"name": "badeline_up",
@@ -174,7 +173,7 @@
 		-230
 	],
 	"healthicon": "badeline",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		122,
 		71,
