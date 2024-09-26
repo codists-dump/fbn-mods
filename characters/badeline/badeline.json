@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-20
+			],
+			"offsets": [
+				-21,
+				-86
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "badeline_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-20,
+				0
+			],
+			"offsets": [
+				139,
+				-85
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "badeline_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				20
+			],
+			"offsets": [
+				4,
+				-118
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "badeline_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				20,
+				0
+			],
+			"offsets": [
+				-95,
+				-35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "badeline_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				20,
+				0
+			],
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "badeline_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				20,
+				0
+			],
+			"offsets": [
+				83,
+				18
+			],
+			"anim": "hit",
+			"fps": 24,
+			"name": "badeline_hit",
+			"indices": []
+		},
+		{
+			"offsets": [
+				83,
+				9
+			],
+			"cameraOffset": [
+				20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "badelinealt_idle"
+		},
+		{
+			"offsets": [
+				210,
+				-87
+			],
+			"cameraOffset": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "badelinealt_left"
+		},
+		{
+			"offsets": [
+				133,
+				-128
+			],
+			"cameraOffset": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "badelinealt_down"
+		},
+		{
+			"offsets": [
+				77,
+				119
+			],
+			"cameraOffset": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "badelinealt_up"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				20,
+				0
+			],
+			"offsets": [
+				-69,
+				-55
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "badelinealt_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/badeline",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "badeline",
+	"flip_x": true,
+	"healthbar_colors": [
+		122,
+		71,
+		114
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
