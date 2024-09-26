@@ -173,7 +173,7 @@
 		-60
 	],
 	"healthicon": "badeline",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		122,
 		71,
