@@ -2,13 +2,9 @@
 	"animations": [
 		{
 			"loop": false,
-			"cameraOffset": [
-				0,
-				-20
-			],
 			"offsets": [
 				-21,
-				-86
+				-144
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -17,13 +13,9 @@
 		},
 		{
 			"loop": false,
-			"cameraOffset": [
-				-20,
-				0
-			],
 			"offsets": [
 				139,
-				-85
+				-315
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -32,13 +24,9 @@
 		},
 		{
 			"loop": false,
-			"cameraOffset": [
-				0,
-				20
-			],
 			"offsets": [
 				4,
-				-118
+				-348
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -47,13 +35,9 @@
 		},
 		{
 			"loop": false,
-			"cameraOffset": [
-				20,
-				0
-			],
 			"offsets": [
 				-95,
-				-35
+				-265
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -62,13 +46,9 @@
 		},
 		{
 			"loop": false,
-			"cameraOffset": [
-				20,
-				0
-			],
 			"offsets": [
 				0,
-				-50
+				-280
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -77,15 +57,11 @@
 		},
 		{
 			"loop": false,
-			"cameraOffset": [
-				20,
-				0
-			],
 			"offsets": [
 				83,
-				18
+				-212
 			],
-			"anim": "hit",
+			"anim": "transALTin",
 			"fps": 24,
 			"name": "badeline_hit",
 			"indices": []
@@ -93,11 +69,7 @@
 		{
 			"offsets": [
 				83,
-				9
-			],
-			"cameraOffset": [
-				20,
-				0
+				-239
 			],
 			"loop": true,
 			"fps": 24,
@@ -108,11 +80,7 @@
 		{
 			"offsets": [
 				210,
-				-87
-			],
-			"cameraOffset": [
-				-20,
-				0
+				-317
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,11 +91,7 @@
 		{
 			"offsets": [
 				133,
-				-128
-			],
-			"cameraOffset": [
-				0,
-				20
+				-358
 			],
 			"loop": false,
 			"fps": 24,
@@ -138,11 +102,7 @@
 		{
 			"offsets": [
 				77,
-				119
-			],
-			"cameraOffset": [
-				0,
-				-20
+				-111
 			],
 			"loop": false,
 			"fps": 24,
@@ -152,13 +112,9 @@
 		},
 		{
 			"loop": false,
-			"cameraOffset": [
-				20,
-				0
-			],
 			"offsets": [
 				-69,
-				-55
+				-285
 			],
 			"anim": "singRIGHT-alt",
 			"fps": 24,
@@ -169,8 +125,8 @@
 	"no_antialiasing": false,
 	"image": "characters/badeline",
 	"position": [
-		390,
-		-230
+		0,
+		-530
 	],
 	"healthicon": "badeline",
 	"flip_x": true,
@@ -180,8 +136,8 @@
 		114
 	],
 	"camera_position": [
-		-270,
-		300
+		-230,
+		-230
 	],
 	"sing_duration": 4,
 	"scale": 1
