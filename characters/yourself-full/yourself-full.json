@@ -272,12 +272,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/yourself",
+	"image": "characters/yourself-full",
 	"position": [
 		70,
 		-220
 	],
-	"healthicon": "yourself",
+	"healthicon": "yourself-full",
 	"flip_x": false,
 	"healthbar_colors": [
 		124,

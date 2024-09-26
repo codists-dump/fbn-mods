@@ -2,7 +2,7 @@
 <!--
 Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="yourself.png" width="8167" height="5649">
+<TextureAtlas imagePath="yourself-full.png" width="8167" height="5649">
 	<SubTexture name="ElDownBIG0000" x="1881" y="1467" width="632" height="787" frameX="-4" frameY="-29" frameWidth="664" frameHeight="816"/>
 	<SubTexture name="ElDownBIG0001" x="2516" y="1467" width="621" height="791" frameX="-2" frameY="-25" frameWidth="664" frameHeight="816"/>
 	<SubTexture name="ElDownBIG0002" x="2516" y="1467" width="621" height="791" frameX="-2" frameY="-25" frameWidth="664" frameHeight="816"/>
