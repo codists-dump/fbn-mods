@@ -4,12 +4,13 @@
 			"loop": false,
 			"cameraOffset": [
 				0,
-				0
+				-20
 			],
 			"offsets": [
-				0,
-				0
+				-21,
+				-144
 			],
+			"anim
 			"anim": "singUP",
 			"fps": 24,
 			"name": "badeline_up",
@@ -180,8 +181,8 @@
 		114
 	],
 	"camera_position": [
-		-270,
-		300
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1
