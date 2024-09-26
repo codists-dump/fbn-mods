@@ -4,11 +4,11 @@
 			"loop": false,
 			"cameraOffset": [
 				0,
-				-20
+				0
 			],
 			"offsets": [
-				-21,
-				-144
+				0,
+				0
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -173,7 +173,7 @@
 		-230
 	],
 	"healthicon": "badeline",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		122,
 		71,
