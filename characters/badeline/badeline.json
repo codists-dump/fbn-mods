@@ -8,7 +8,7 @@
 			],
 			"offsets": [
 				-21,
-				-144
+				-86
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -23,7 +23,7 @@
 			],
 			"offsets": [
 				139,
-				-315
+				-85
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -38,7 +38,7 @@
 			],
 			"offsets": [
 				4,
-				-348
+				-118
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -53,7 +53,7 @@
 			],
 			"offsets": [
 				-95,
-				-265
+				-35
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -68,7 +68,7 @@
 			],
 			"offsets": [
 				0,
-				-280
+				-50
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -83,7 +83,7 @@
 			],
 			"offsets": [
 				83,
-				-212
+				18
 			],
 			"anim": "hit",
 			"fps": 24,
@@ -93,7 +93,7 @@
 		{
 			"offsets": [
 				83,
-				-239
+				9
 			],
 			"cameraOffset": [
 				20,
@@ -108,7 +108,7 @@
 		{
 			"offsets": [
 				210,
-				-317
+				-87
 			],
 			"cameraOffset": [
 				-20,
@@ -123,7 +123,7 @@
 		{
 			"offsets": [
 				133,
-				-358
+				-128
 			],
 			"cameraOffset": [
 				0,
@@ -138,7 +138,7 @@
 		{
 			"offsets": [
 				77,
-				-111
+				119
 			],
 			"cameraOffset": [
 				0,
@@ -158,7 +158,7 @@
 			],
 			"offsets": [
 				-69,
-				-285
+				-55
 			],
 			"anim": "singRIGHT-alt",
 			"fps": 24,
