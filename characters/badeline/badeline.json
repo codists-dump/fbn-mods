@@ -169,19 +169,19 @@
 	"no_antialiasing": false,
 	"image": "characters/badeline",
 	"position": [
-		0,
-		0
+		390,
+		-230
 	],
 	"healthicon": "badeline",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		122,
 		71,
 		114
 	],
 	"camera_position": [
-		0,
-		0
+		-270,
+		300
 	],
 	"sing_duration": 4,
 	"scale": 1
