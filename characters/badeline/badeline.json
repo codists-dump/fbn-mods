@@ -96,7 +96,7 @@
 			],
 			"anim": "hey-alt",
 			"fps": 20,
-			"name": "badeline_upalt",
+			"name": "badelinealt_up",
 			"indices": []
 		},
 		{
@@ -107,7 +107,7 @@
 			],
 			"anim": "idle-alt",
 			"fps": 24,
-			"name": "badeline_idlealt",
+			"name": "badelinealt_idle",
 			"indices": []
 		},
 		{
@@ -118,7 +118,7 @@
 			],
 			"anim": "singLEFT-alt",
 			"fps": 24,
-			"name": "badeline_leftalt",
+			"name": "badelinealt_left",
 			"indices": []
 		},
 		{
@@ -129,7 +129,7 @@
 			],
 			"anim": "singDOWN-alt",
 			"fps": 24,
-			"name": "badeline_downalt",
+			"name": "badelinealt_down",
 			"indices": []
 		},
 		{
@@ -140,7 +140,7 @@
 			],
 			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "badeline_upalt",
+			"name": "badelinealt_up",
 			"indices": []
 		},
 		{
@@ -151,51 +151,7 @@
 			],
 			"anim": "singRIGHT-alt",
 			"fps": 24,
-			"name": "badeline_rightalt",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				36,
-				56
-			],
-			"anim": "singLEFTmiss-alt",
-			"fps": 24,
-			"name": "badeline_missleftalt",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				36,
-				56
-			],
-			"anim": "singDOWNmiss-alt",
-			"fps": 24,
-			"name": "badeline_missdownalt",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				36,
-				56
-			],
-			"anim": "singUPmiss-alt",
-			"fps": 24,
-			"name": "badeline_missupalt",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				36,
-				56
-			],
-			"anim": "singRIGHTmiss-alt",
-			"fps": 24,
-			"name": "badeline_missrightalt",
+			"name": "badelinealt_right",
 			"indices": []
 		}
 	],
