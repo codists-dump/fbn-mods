@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-21,
+				-23,
 				-144
 			],
 			"cameraOffset": [
@@ -169,8 +169,8 @@
 	"no_antialiasing": false,
 	"image": "characters/badeline",
 	"position": [
-		900,
-		-60
+		390,
+		0
 	],
 	"healthicon": "badeline",
 	"flip_x": true,
