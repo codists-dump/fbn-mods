@@ -155,7 +155,7 @@
 	"image": "characters/yourself-small",
 	"position": [
 		20,
-		-170
+		-160
 	],
 	"healthicon": "yourself-small",
 	"flip_x": false,
