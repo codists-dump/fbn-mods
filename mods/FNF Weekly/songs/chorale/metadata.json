@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Chorale",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Dollie"],
+        "chart" : ["Kye_VL"],
+        "art" : ["Dollie"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}
