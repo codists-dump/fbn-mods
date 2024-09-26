@@ -1,129 +1,39 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"offsets": [
+				-21,
+				-144
+			],
 			"cameraOffset": [
 				0,
 				-20
 			],
-			"offsets": [
-				-21,
-				0
-			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "badeline_up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "badeline_up"
 		},
 		{
-			"loop": false,
-			"cameraOffset": [
-				-20,
-				0
-			],
 			"offsets": [
 				139,
 				-315
 			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "badeline_left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"cameraOffset": [
-				0,
-				20
-			],
-			"offsets": [
-				4,
-				-348
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "badeline_down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"cameraOffset": [
-				20,
-				0
-			],
-			"offsets": [
-				-95,
-				-265
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "badeline_right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"cameraOffset": [
-				20,
-				0
-			],
-			"offsets": [
-				0,
-				-280
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "badeline_idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"cameraOffset": [
-				20,
-				0
-			],
-			"offsets": [
-				83,
-				-212
-			],
-			"anim": "hit",
-			"fps": 24,
-			"name": "badeline_hit",
-			"indices": []
-		},
-		{
-			"offsets": [
-				83,
-				-239
-			],
-			"cameraOffset": [
-				20,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle-alt",
-			"indices": [],
-			"name": "badelinealt_idle"
-		},
-		{
-			"offsets": [
-				210,
-				-317
-			],
 			"cameraOffset": [
 				-20,
 				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT-alt",
+			"anim": "singLEFT",
 			"indices": [],
-			"name": "badelinealt_left"
+			"name": "badeline_left"
 		},
 		{
 			"offsets": [
-				133,
-				-358
+				4,
+				-348
 			],
 			"cameraOffset": [
 				0,
@@ -131,57 +41,147 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN-alt",
+			"anim": "singDOWN",
 			"indices": [],
-			"name": "badelinealt_down"
+			"name": "badeline_down"
 		},
 		{
 			"offsets": [
-				77,
-				-111
+				-95,
+				-265
 			],
 			"cameraOffset": [
-				0,
-				-20
+				20,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP-alt",
+			"anim": "singRIGHT",
 			"indices": [],
-			"name": "badelinealt_up"
+			"name": "badeline_right"
 		},
 		{
+			"offsets": [
+				0,
+				-280
+			],
+			"cameraOffset": [
+				20,
+				0
+			],
 			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "badeline_idle"
+		},
+		{
+			"offsets": [
+				83,
+				-212
+			],
+			"cameraOffset": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "badeline_hit"
+		},
+		{
+			"loop": true,
 			"cameraOffset": [
 				20,
 				0
 			],
 			"offsets": [
+				83,
+				-239
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "badelinealt_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-20,
+				0
+			],
+			"offsets": [
+				210,
+				-317
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "badelinealt_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				20
+			],
+			"offsets": [
+				133,
+				-358
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "badelinealt_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-20
+			],
+			"offsets": [
+				77,
+				-111
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "badelinealt_up",
+			"indices": []
+		},
+		{
+			"offsets": [
 				-69,
 				-285
 			],
-			"anim": "singRIGHT-alt",
+			"cameraOffset": [
+				20,
+				0
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "badelinealt_right",
-			"indices": []
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "badelinealt_right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/badeline",
 	"position": [
-		0,
-		0
+		900,
+		-60
 	],
 	"healthicon": "badeline",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		122,
 		71,
 		114
 	],
 	"camera_position": [
-		0,
-		0
+		-270,
+		300
 	],
 	"sing_duration": 4,
 	"scale": 1
