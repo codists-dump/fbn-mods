@@ -169,11 +169,11 @@
 	"no_antialiasing": false,
 	"image": "characters/badeline",
 	"position": [
-		390,
+		0,
 		0
 	],
 	"healthicon": "badeline",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		122,
 		71,
